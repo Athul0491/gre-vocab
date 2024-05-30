@@ -17,21 +17,21 @@ const WordStatus: React.FC<WordStatusProps> = ({ wordStatus, totalWords }) => {
               Object.values(wordStatus).filter(
                 (status) => status === "mastered"
               ).length
-            } / {totalWords}
+            } {" "}/ {totalWords}
         </div>
         <div className="py-3 px-4 inline-flex justify-center items-center gap-2 -ml-px first:rounded-l-lg first:ml-0 last:rounded-r-lg border font-medium bg-white text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-2 focus:ring-blue-600 transition-all text-sm ">
             Learning {
               Object.values(wordStatus).filter(
                 (status) => status === "learning"
               ).length
-            } / {totalWords}
+            } {" "}/ {totalWords}
         </div>
         <div className="py-3 px-4 inline-flex justify-center items-center gap-2 -ml-px first:rounded-l-lg first:ml-0 last:rounded-r-lg border font-medium bg-white text-gray-700 align-middle hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-2 focus:ring-blue-600 transition-all text-sm ">
             Untouched {
               Object.values(wordStatus).filter(
                 (status) => status === "untouched"
               ).length
-            } / {totalWords}
+            } {" "}/ {totalWords}
         </div>
         </div>
     </div>

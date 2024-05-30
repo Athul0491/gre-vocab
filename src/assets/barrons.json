@@ -1,0 +1,5487 @@
+[
+  {
+    "word": "abate",
+    "phonetics": [
+      { "text": "/\\u0259\\u02c8be\\u026at/", "audio": "" },
+      { "text": "/\\u0259\\u02c8be\\u026at/", "audio": "" }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "Abatement." },
+      {
+        "partOfSpeech": "verb",
+        "definition": "(obsolete outside law) To put an end to; to cause to cease."
+      }
+    ],
+    "frequency": "655.45"
+  },
+  {
+    "word": "aberrant",
+    "phonetics": [
+      { "text": "/\\u0259\\u02c8b\\u025b\\u0279.n\\u0329t/", "audio": "" },
+      { "text": "/\\u0259b\\u02c8\\u025b\\u0279.n\\u0329t/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A person or object that deviates from the rest of a group."
+      },
+      { "partOfSpeech": "adjective", "definition": "Differing from the norm." }
+    ],
+    "frequency": "25639.42"
+  },
+  {
+    "word": "abeyance",
+    "phonetics": [
+      {
+        "text": "/\\u0259\\u02c8be\\u026a.\\u0259ns/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abeyance.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Expectancy; condition of ownership of real property being undetermined; lapse in succession of ownership of estate, or title."
+      }
+    ],
+    "frequency": "4862.91"
+  },
+  {
+    "word": "abscond",
+    "phonetics": [
+      { "text": "/\\u0259b\\u02c8sk\\u0252nd/", "audio": "" },
+      { "text": "/\\u0259b\\u02c8sk\\u0251nd/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To flee, often secretly; to steal away, particularly to avoid arrest or prosecution."
+      }
+    ],
+    "frequency": "6435.03"
+  },
+  {
+    "word": "abstemious",
+    "phonetics": [
+      {
+        "text": "/\\u00e6b\\u02c8sti\\u02d0.m\\u026a.\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abstemious-uk.mp3"
+      },
+      { "text": "/\\u00e6b\\u02c8sti.mi.\\u0259s/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Refraining from freely consuming food or strong drink; sparing in diet; abstinent, temperate."
+      }
+    ],
+    "frequency": "7558.1"
+  },
+  {
+    "word": "admonish",
+    "phonetics": [
+      {
+        "text": "/\\u0259d\\u02c8m\\u0252n.\\u026a\\u0283/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/admonish-uk.mp3"
+      },
+      { "text": "/\\u00e6d\\u02c8m\\u0251n.\\u026a\\u0283/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To warn or notify of a fault; to reprove gently or kindly, but seriously; to exhort."
+      }
+    ],
+    "frequency": "652.7"
+  },
+  {
+    "word": "adulterate",
+    "phonetics": [],
+    "meanings": [
+      { "partOfSpeech": "verb", "definition": "To corrupt." },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Tending to commit adultery."
+      }
+    ],
+    "frequency": "2689.04"
+  },
+  {
+    "word": "aesthetic",
+    "phonetics": [
+      { "text": "/i\\u02d0s.\\u02c8\\u03b8e.t\\u026ak/", "audio": "" },
+      {
+        "text": "/\\u025bs.\\u02c8\\u03b8\\u025b.t\\u026ak/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aesthetic-us.mp3"
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "The study of art or beauty." },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Concerned with beauty, artistic impact, or appearance."
+      }
+    ],
+    "frequency": "1071.78"
+  },
+  {
+    "word": "aggregate",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A mass, assemblage, or sum of particulars; something consisting of elements but considered as a whole."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To bring together; to collect into a mass or sum."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Formed by a collection of particulars into a whole mass or sum; collective; combined; added up."
+      }
+    ],
+    "frequency": "825.74"
+  },
+  {
+    "word": "alacrity",
+    "phonetics": [
+      { "text": "[\\u0259\\u02c8l\\u00e6k\\u0279\\u0268ti]", "audio": "" },
+      {
+        "text": "[\\u0259\\u02c8l\\u00e6k\\u0279\\u0268ti]",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alacrity-us.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Eagerness; liveliness; enthusiasm."
+      }
+    ],
+    "frequency": "1532}",
+    "word": "alleviate",
+    "phonetics": [
+      {
+        "text": "/\\u0259\\u02c8li.vi.e\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alleviate-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To make less severe, as a pain or difficulty."
+      }
+    ],
+    "frequency": "1511.07"
+  },
+  {
+    "word": "amalgamate",
+    "phonetics": [
+      {
+        "text": "/\\u0259\\u02c8m\\u00e6l\\u0261\\u0259\\u02ccme\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/amalgamate-au.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To merge, to combine, to blend, to join."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Coalesced; united; combined."
+      }
+    ],
+    "frequency": "2430.46"
+  },
+  {
+    "word": "ambiguous",
+    "phonetics": [
+      {
+        "text": "/\\u00e6m\\u02c8b\\u026a\\u0261ju\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ambiguous-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Open to multiple interpretations."
+      }
+    ],
+    "frequency": "1082.56"
+  },
+  {
+    "word": "ambivalence",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The coexistence of opposing attitudes or feelings (such as love and hate) towards a person, object or idea."
+      }
+    ],
+    "frequency": "16371.24"
+  },
+  {
+    "word": "ameliorate",
+    "phonetics": [
+      {
+        "text": "/\\u0259\\u02c8mi\\u02d0li.\\u0259\\u0279e\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ameliorate-au.mp3"
+      },
+      {
+        "text": "/\\u0259\\u02c8mi\\u02d0li.\\u0259\\u0279e\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ameliorate-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To make better, or improve, something perceived to be in a negative condition."
+      }
+    ],
+    "frequency": "2819.82"
+  },
+  {
+    "word": "anachronism",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anachronism-au.mp3"
+      },
+      {
+        "text": "/\\u0259\\u02c8n\\u00e6.k\\u0279\\u0259.n\\u026a.z(\\u0259)m/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u0259\\u02c8n\\u00e6.k\\u0279\\u0259.n\\u026a.z(\\u0259)m/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A chronological mistake; the erroneous dating of an event, circumstance, or object."
+      }
+    ],
+    "frequency": "3922.47"
+  },
+  {
+    "word": "analogous",
+    "phonetics": [
+      {
+        "text": "/\\u0259\\u02c8n\\u00e6l.\\u0259.\\u0261\\u0259s/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u0259\\u02c8n\\u00e6l.\\u0259.\\u0261\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/analogous-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Having analogy; corresponding to something else; bearing some resemblance or proportion"
+      }
+    ],
+    "frequency": "1272.17"
+  },
+  {
+    "word": "anarchy",
+    "phonetics": [
+      { "text": "/\\u02c8\\u00e6.n\\u0259.ki/", "audio": "" },
+      { "text": "/\\u02c8\\u00e6n.\\u0251\\u0279.ki/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The state of a society being without authorities or an authoritative governing body."
+      }
+    ],
+    "frequency": "634.34"
+  },
+  {
+    "word": "anomalous",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anomalous-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Deviating from the normal; marked by incongruity or contradiction; aberrant or abnormal."
+      }
+    ],
+    "frequency": "3932.91"
+  },
+  {
+    "word": "antipathy",
+    "phonetics": [
+      { "text": "/\\u00e6n\\u02c8t\\u026ap\\u0259\\u03b8i/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A feeling of dislike (normally towards someone, less often towards something); repugnance or distaste."
+      }
+    ],
+    "frequency": "1698.93"
+  },
+  {
+    "word": "apathy",
+    "phonetics": [
+      {
+        "text": "/\\u02c8\\u00e6.p\\u0259.\\u03b8i/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/apathy-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Lack of emotion or motivation; lack of interest or enthusiasm towards something; disinterest (in something)."
+      }
+    ],
+    "frequency": "1190.78"
+  },
+  {
+    "word": "appease",
+    "phonetics": [{ "text": "/\\u0259\\u02c8pi\\u02d0z/", "audio": "" }],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To make quiet; to calm; to reduce to a state of peace; to dispel (anger or hatred)."
+      }
+    ],
+    "frequency": "862.03"
+  },
+  {
+    "word": "apprise",
+    "phonetics": [
+      {
+        "text": "/\\u0259\\u02c8p\\u0279a\\u026a\\u032fz/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/apprise-uk.mp3"
+      },
+      {
+        "text": "/\\u0259\\u02c8p\\u0279a\\u026a\\u032fz/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/apprise-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To notify, or to make aware; to inform."
+      }
+    ],
+    "frequency": "2120.3"
+  },
+  {
+    "word": "approbation",
+    "phonetics": [
+      {
+        "text": "/\\u02cc\\u00e6p.\\u0279\\u0259\\u028a\\u02c8be\\u026a.\\u0283\\u0259n/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u02cc\\u00e6p.\\u0279o\\u028a\\u02c8be\\u026a.\\u0283\\u0259n/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/approbation-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The act of approving; an assenting to the propriety of a thing with some degree of pleasure or satisfaction; approval, sanction, commendation or official recognition."
+      }
+    ],
+    "frequency": "715.29"
+  },
+  {
+    "word": "appropriate",
+    "phonetics": [],
+    "meanings": [
+      { "partOfSpeech": "verb", "definition": "To make suitable; to suit." },
+      { "partOfSpeech": "adjective", "definition": "Suitable or fit; proper." }
+    ],
+    "frequency": "160.02"
+  },
+  {
+    "word": "arduous",
+    "phonetics": [
+      { "text": "/\\u02c8\\u0251\\u02d0dju\\u02d0\\u0259s/", "audio": "" },
+      {
+        "text": "/\\u02c8\\u0251\\u02d0\\u0279d\\u0361\\u0292u\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arduous-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Needing or using up much energy; testing powers of endurance."
+      }
+    ],
+    "frequency": "1245.79"
+  },
+  {
+    "word": "artless",
+    "phonetics": [
+      { "text": "/\\u02c8\\u0251\\u0279t.l\\u026as/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Having or displaying no guile, cunning, or deceit."
+      }
+    ],
+    "frequency": "2113.85"
+  },
+  {
+    "word": "ascetic",
+    "phonetics": [
+      { "text": "/\\u0259\\u02c8s\\u025b.t\\u026ak/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "One who is devoted to the practice of self-denial, either through seclusion or stringent abstinence."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Of or relating to ascetics"
+      }
+    ],
+    "frequency": "1113.62"
+  },
+  {
+    "word": "assiduous",
+    "phonetics": [
+      { "text": "/\\u0259\\u02c8s\\u026adju\\u02d0\\u0259s/", "audio": "" },
+      {
+        "text": "/\\u0259\\u02c8s\\u026ad\\u0292u\\u02d0\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/assiduous-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Hard-working, diligent or regular (in attendance or work); industrious."
+      }
+    ],
+    "frequency": "1132.58"
+  },
+  {
+    "word": "assuage",
+    "phonetics": [
+      {
+        "text": "/\\u0259\\u02c8swe\\u026ad\\u0292/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/assuage-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To lessen the intensity of, to mitigate or relieve (hunger, emotion, pain etc.)."
+      }
+    ],
+    "frequency": "2941.13"
+  },
+  {
+    "word": "attenuate",
+    "phonetics": [
+      {
+        "text": "/\\u0259\\u02c8t\\u025bn.ju\\u02d0.e\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/attenuate-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To reduce in size, force, value, amount, or degree."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "(of leaves) Gradually tapering into a petiole-like extension toward the base."
+      }
+    ],
+    "frequency": "3390.54"
+  },
+  {
+    "word": "audacious",
+    "phonetics": [
+      {
+        "text": "/\\u0254\\u02d0\\u02c8de\\u026a\\u0283\\u0259s/",
+        "audio": ""
+      },
+      { "text": "/\\u0254\\u02c8de\\u026a\\u0283\\u0259s/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Showing willingness to take bold risks; recklessly daring."
+      }
+    ],
+    "frequency": "1243.31"
+  },
+  {
+    "word": "austere",
+    "phonetics": [
+      { "text": "/\\u0252st\\u026a\\u0259(\\u0279)/", "audio": "" },
+      {
+        "text": "/\\u0254\\u02c8sti\\u0279/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/austere-us.mp3"
+      },
+      { "text": "/\\u0251\\u02c8sti\\u0279/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Grim or severe in manner or appearance"
+      }
+    ],
+    "frequency": "583.49"
+  },
+  {
+    "word": "aver",
+    "phonetics": [{ "text": "/\\u0259\\u02c8v\\u025c\\u02d0/", "audio": "" }],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To assert the truth of, to affirm with confidence; to declare in a positive manner."
+      }
+    ],
+    "frequency": "1832.6"
+  },
+  {
+    "word": "banal",
+    "phonetics": [
+      {
+        "text": "/b\\u0259\\u02c8n\\u00e6l/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/banal-uk.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Common in a boring way, to the point of being predictable; containing nothing new or fresh."
+      }
+    ],
+    "frequency": "4510.47"
+  },
+  {
+    "word": "belie",
+    "phonetics": [
+      { "text": "/b\\u026a\\u02c8l\\u028c\\u026a/", "audio": "" },
+      {
+        "text": "/b\\u0259\\u02c8la\\u026a/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/belie-us.mp3"
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "verb", "definition": "To lie around; encompass." }
+    ],
+    "frequency": "2163.33"
+  },
+  {
+    "word": "beneficent",
+    "phonetics": [
+      {
+        "text": "/b\\u0259\\u02c8n\\u025bf.\\u0259.s\\u0259nt/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beneficent-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Given to acts that are kind, charitable, philanthropic or beneficial."
+      }
+    ],
+    "frequency": "946.85"
+  },
+  {
+    "word": "bolster",
+    "phonetics": [
+      {
+        "text": "/\\u02c8b\\u0259\\u028alst\\u0259/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bolster-uk.mp3"
+      },
+      { "text": "/\\u02c8bo\\u028alst\\u025a/", "audio": "" }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "A large cushion or pillow." },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To brace, reinforce, secure, or support."
+      }
+    ],
+    "frequency": "1343.19"
+  },
+  {
+    "word": "bombastic",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bombastic-au.mp3"
+      },
+      { "text": "/b\\u0252m\\u02c8b\\u00e6s.t\\u026ak/", "audio": "" },
+      {
+        "text": "/b\\u0251m\\u02c8b\\u00e6s.t\\u02b0\\u026ak/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bombastic-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "(of a person, their language or writing) showy in speech and given to using flowery or elaborate terms; grandiloquent; pompous"
+      }
+    ],
+    "frequency": "9023.37"
+  },
+  {
+    "word": "boorish",
+    "phonetics": [
+      { "text": "/\\u02c8b\\u028a\\u0259\\u0279\\u026a\\u0283/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Behaving as a boor; rough in manners."
+      }
+    ],
+    "frequency": "8516.35"
+  },
+  {
+    "word": "burgeon",
+    "phonetics": [
+      {
+        "text": "/\\u02c8b\\u025c\\u02d0.d\\u0361\\u0292\\u0259n/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u02c8b\\u025d\\u02d0.d\\u0361\\u0292\\u0259n/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/burgeon-us.mp3"
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "A bud, sprout, shoot." },
+      { "partOfSpeech": "verb", "definition": "To grow or expand." }
+    ],
+    "frequency": "5041.22"
+  },
+  {
+    "word": "burnish",
+    "phonetics": [
+      {
+        "text": "/\\u02c8b\\u025c\\u02d0(\\u0279)n\\u026a\\u0283/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "Polish; lustre." },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To make smooth or shiny by rubbing; to polish; to shine."
+      }
+    ],
+    "frequency": "2239.93"
+  },
+  {
+    "word": "buttress",
+    "phonetics": [
+      {
+        "text": "/\\u02c8b\\u028ct\\u0279\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/buttress-uk.mp3"
+      },
+      { "text": "/\\u02c8b\\u028ct\\u0279\\u026as/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A brick or stone structure built against another structure to support it."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To support something physically with, or as if with, a prop or buttress."
+      }
+    ],
+    "frequency": "1929.42"
+  },
+  {
+    "word": "cacophonous",
+    "phonetics": [
+      { "text": "/k\\u0259\\u02c8k\\u0252f\\u0259n\\u0259s/", "audio": "" },
+      {
+        "text": "/k\\u0259\\u02c8k\\u0251f\\u0259n\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cacophonous-us.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Containing, consisting of, or producing harsh, unpleasant or discordant sounds."
+      }
+    ],
+    "frequency": "49248.13"
+  },
+  {
+    "word": "capricious",
+    "phonetics": [
+      { "text": "/k\\u0259\\u02c8p\\u0279\\u026a\\u0283\\u0259s/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Impulsive and unpredictable; determined by chance, impulse, or whim"
+      }
+    ],
+    "frequency": "1316.6"
+  },
+  {
+    "word": "catalyst",
+    "phonetics": [
+      { "text": "/\\u02c8k\\u00e6t.\\u0259l.\\u026ast/", "audio": "" },
+      { "text": "/\\u02c8k\\u00e6t.\\u0259.l\\u026ast/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A substance that increases the rate of a chemical reaction without being consumed in the process."
+      }
+    ],
+    "frequency": "6417.56"
+  },
+  {
+    "word": "caustic",
+    "phonetics": [
+      {
+        "text": "/\\u02c8k\\u0252st\\u026ak/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/caustic-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Any substance or means which, applied to animal or other organic tissue, burns, corrodes, or destroys it by chemical action; an escharotic."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Capable of burning, corroding or destroying organic tissue."
+      }
+    ],
+    "frequency": "1903.35"
+  },
+  {
+    "word": "chicanery",
+    "phonetics": [
+      {
+        "text": "/\\u0283\\u026a\\u02c8ke\\u026an(\\u0259)\\u0279i/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chicanery-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Deception by use of trickery, quibbling, or subterfuge."
+      }
+    ],
+    "frequency": "10155.05"
+  },
+  {
+    "word": "coagulate",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/coagulate-1-au.mp3"
+      },
+      {
+        "text": "/k\\u0259\\u028a\\u02c8\\u00e6\\u0261.j\\u028a.le\\u026at/",
+        "audio": ""
+      },
+      {
+        "text": "/ko\\u028a\\u02c8\\u00e6\\u0261.j\\u0259.le\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/coagulate-1-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To become congealed; to convert from a liquid to a semisolid mass."
+      },
+      { "partOfSpeech": "adjective", "definition": "Coagulated." }
+    ],
+    "frequency": "5955.31"
+  },
+  {
+    "word": "coda",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/coda-au.mp3"
+      },
+      { "text": "/\\u02c8k\\u0259\\u028a.d\\u0259/", "audio": "" },
+      {
+        "text": "/\\u02c8ko\\u028a.d\\u0259/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/coda-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A person born hearing to deaf parents."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A passage that brings a movement or piece to a conclusion through prolongation."
+      }
+    ],
+    "frequency": "16081.69"
+  },
+  {
+    "word": "cogent",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cogent-au.mp3"
+      },
+      {
+        "text": "/\\u02c8k\\u0259\\u0361\\u028ad\\u0361\\u0292n\\u0329t/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u02c8ko\\u0361\\u028ad\\u0361\\u0292n\\u0329t/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cogent-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Reasonable and convincing; based on evidence."
+      }
+    ],
+    "frequency": "4099.24"
+  },
+  {
+    "word": "commensurate",
+    "phonetics": [
+      {
+        "text": "/k\\u0259\\u02c8m\\u025bn\\u0283\\u0259\\u0279\\u0259t/",
+        "audio": ""
+      },
+      {
+        "text": "/k\\u0259\\u02c8m\\u025bn\\u0283\\u0259\\u0279\\u0259t/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To reduce to a common measure."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Of a proportionate or similar measurable standard."
+      }
+    ],
+    "frequency": "4000.77"
+  },
+  {
+    "word": "compendium",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/compendium-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A short, complete summary; an abstract."
+      }
+    ],
+    "frequency": "4396.43"
+  },
+  {
+    "word": "complaisant",
+    "phonetics": [
+      { "text": "/k\\u0259m\\u02c8ple\\u026as\\u0259nt/", "audio": "" },
+      { "text": "/k\\u0259m\\u02c8ple\\u026as\\u0259nt/", "audio": "" }
+    ],
+    "meanings": [{ "partOfSpeech": "adjective", "definition": "Compliant." }],
+    "frequency": "2819.82"
+  },
+  {
+    "word": "compliant",
+    "phonetics": [
+      { "text": "/k\\u0259m\\u02c8pl\\u028c\\u026a\\u0259nt/", "audio": "" },
+      { "text": "/k\\u0259m\\u02c8pla\\u026a\\u0259nt/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Willing to comply; submissive; willing to do what someone wants."
+      }
+    ],
+    "frequency": "9688.96"
+  },
+  {
+    "word": "conciliatory",
+    "phonetics": [
+      {
+        "text": "/k\\u0259n\\u02c8s\\u026al.i.\\u0259\\u02cct\\u0254\\u0279.i/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/conciliatory-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Willing to conciliate, or to make concessions."
+      }
+    ],
+    "frequency": "2336.83"
+  },
+  {
+    "word": "condone",
+    "phonetics": [
+      { "text": "/k\\u0259n\\u02c8d\\u0259\\u028an/", "audio": "" },
+      { "text": "/k\\u0259n\\u02c8do\\u028an/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To forgive, excuse or overlook (something that is considered morally wrong, offensive, or generally disliked)."
+      }
+    ],
+    "frequency": "3330.38"
+  },
+  {
+    "word": "confound",
+    "phonetics": [
+      {
+        "text": "/k\\u0259n\\u02c8fa\\u028and/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/confound-us.mp3"
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "A confounding variable." },
+      { "partOfSpeech": "verb", "definition": "To perplex or puzzle." }
+    ],
+    "frequency": "345.39"
+  },
+  {
+    "word": "connoisseur",
+    "phonetics": [
+      { "text": "/\\u02cck\\u0252n\\u0259\\u02c8s\\u025c\\u0279/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A specialist in a given field whose opinion is highly valued, especially in one of the fine arts or in matters of taste"
+      }
+    ],
+    "frequency": "1963.69"
+  },
+  {
+    "word": "contention",
+    "phonetics": [
+      { "text": "/k\\u0259n\\u02c8t\\u025bn\\u0283\\u0259n/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Argument, contest, debate, strife, struggle."
+      }
+    ],
+    "frequency": "632.74"
+  },
+  {
+    "word": "contentious",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contentious-au.mp3"
+      },
+      { "text": "/k\\u0259n\\u02c8t\\u025bn.\\u0283\\u0259s/", "audio": "" },
+      { "text": "/k\\u0259n\\u02c8t\\u025bn.\\u0283\\u0259s/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Marked by heated arguments or controversy."
+      }
+    ],
+    "frequency": "3468.09"
+  },
+  {
+    "word": "contrite",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contrite-au.mp3"
+      },
+      { "text": "/k\\u0259n\\u02c8t\\u0279a\\u026at/", "audio": "" },
+      {
+        "text": "/k\\u0259n\\u02c8t\\u0279a\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/contrite-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A contrite person; a penitent."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Sincerely penitent or feeling regret or sorrow, especially for one\\u2019s own actions; apologetic."
+      }
+    ],
+    "frequency": "3636.59"
+  },
+  {
+    "word": "conundrum",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/conundrum-au.mp3"
+      },
+      { "text": "/k\\u0259\\u02c8n\\u028cn.d\\u0279\\u0259m/", "audio": "" },
+      {
+        "text": "/k\\u0259\\u02c8n\\u028cn.d\\u0279\\u0259m/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/conundrum-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A difficult question or riddle, especially one using a play on words in the answer."
+      }
+    ],
+    "frequency": "5511.17"
+  },
+  {
+    "word": "converge",
+    "phonetics": [
+      { "text": "/k\\u0259n.\\u02c8v\\u025c\\u02d0d\\u0292/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "Of two or more entities, to approach each other; to get closer and closer."
+      }
+    ],
+    "frequency": "1486.96"
+  },
+  {
+    "word": "convoluted",
+    "phonetics": [
+      { "text": "/-v\\u0259\\u028a-/", "audio": "" },
+      {
+        "text": "/\\u02c8k\\u0251nv\\u0259\\u02cclut\\u0259d/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/convoluted-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To make unnecessarily complex."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Having numerous overlapping coils or folds; convolute."
+      }
+    ],
+    "frequency": "14206.9"
+  },
+  {
+    "word": "craven",
+    "phonetics": [
+      {
+        "text": "/\\u02c8k\\u0279e\\u026a.v\\u0259n/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/craven-uk.mp3"
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "A coward." },
+      { "partOfSpeech": "verb", "definition": "To make craven." },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Unwilling to fight; lacking even the rudiments of courage; extremely cowardly."
+      }
+    ],
+    "frequency": "1366.6"
+  },
+  {
+    "word": "daunt",
+    "phonetics": [
+      { "text": "/d\\u0254\\u02d0nt/", "audio": "" },
+      { "text": "/d\\u0254nt/", "audio": "" }
+    ],
+    "meanings": [
+      { "partOfSpeech": "verb", "definition": "To discourage, intimidate." }
+    ],
+    "frequency": "831.53"
+  },
+  {
+    "word": "decorum",
+    "phonetics": [
+      { "text": "/d\\u026a\\u02c8k\\u0254\\u02d0\\u0279\\u0259m/", "audio": "" }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "Appropriate social behavior." }
+    ],
+    "frequency": "944.36"
+  },
+  {
+    "word": "default",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/default-uk.mp3"
+      },
+      { "text": "/d\\u026a\\u02c8f\\u0254\\u02d0lt/", "audio": "" },
+      { "text": "/d\\u026a\\u02c8f\\u0254\\u02d0lt/", "audio": "" },
+      { "text": "/d\\u026a\\u02c8f\\u0251lt/", "audio": "" },
+      { "text": "/d\\u026a\\u02c8f\\u0251lt/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The condition of failing to meet an obligation."
+      },
+      { "partOfSpeech": "verb", "definition": "To fail to meet an obligation." }
+    ],
+    "frequency": "836.52"
+  },
+  {
+    "word": "deference",
+    "phonetics": [
+      { "text": "/\\u02c8d\\u025bf\\u0259\\u0279\\u0259ns/", "audio": "" },
+      {
+        "text": "/\\u02c8d\\u025b.f\\u025a.\\u0259ns/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/deference-us.mp3"
+        }
+    ],
+    "meanings": [{ "partOfSpeech": "noun", "definition": "Great respect." }],
+    "frequency": "698.55"
+  },
+  {
+    "word": "delineate",
+    "phonetics": [
+      { "text": "/d\\u026a\\u02c8l\\u026ani\\u02d0e\\u026at/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To sketch out, draw or trace an outline."
+      }
+    ],
+    "frequency": "1657.53"
+  },
+  {
+    "word": "denigrate",
+    "phonetics": [
+      {
+        "text": "/\\u02c8d\\u025bn.\\u026a.\\u0261\\u0279e\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/denigrate-au.mp3"
+      },
+      {
+        "text": "/\\u02c8d\\u025bn.\\u026a.\\u0261\\u0279e\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/denigrate-us.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To criticise so as to besmirch; traduce, disparage or defame."
+      }
+    ],
+    "frequency": "27047.48"
+  },
+  {
+    "word": "deride",
+    "phonetics": [{ "text": "/d\\u026a\\u02c8\\u0279a\\u026ad/", "audio": "" }],
+    "meanings": [
+      { "partOfSpeech": "verb", "definition": "To harshly mock; ridicule." }
+    ],
+    "frequency": "650.56"
+  },
+  {
+    "word": "derivative",
+    "phonetics": [
+      {
+        "text": "/d\\u026a\\u02c8\\u0279\\u026av\\u0259t\\u026av/",
+        "audio": ""
+      },
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/derivative-us.mp3"
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "Something derived." },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Obtained by derivation; not radical, original, or fundamental."
+      }
+    ],
+    "frequency": "1514.94"
+  },
+  {
+    "word": "desiccate",
+    "phonetics": [
+      {
+        "text": "/d\\u026a\\u02c8s\\u026ake\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/desiccate-uk.mp3"
+      },
+      { "text": "/\\u02c8d\\u025bs\\u026ake\\u026at/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A substance which has been dessicated, that is, had its moisture removed."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To remove moisture from; to dry."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Having had moisture removed; dehydrated, dessicated."
+      }
+    ],
+    "frequency": "10894.37"
+  },
+  {
+    "word": "desultory",
+    "phonetics": [
+      {
+        "text": "/\\u02c8d\\u025bs.\\u0259l.t(\\u0259).\\u0279i/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u02c8d\\u025bs.\\u0259l\\u02cct\\u0254\\u0279.i/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/desultory-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Jumping, or passing, from one thing or subject to another, without order, planning, or rational connection; lacking logical sequence."
+      }
+    ],
+    "frequency": "2359.67"
+  },
+  {
+    "word": "deterrent",
+    "phonetics": [
+      { "text": "/d\\u026a\\u02c8t\\u025b\\u0279\\u0259nt/", "audio": "" }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "Something that deters." },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Serving to deter, preventing something from happening."
+      }
+    ],
+    "frequency": "3685.32"
+  },
+  {
+    "word": "diatribe",
+    "phonetics": [
+      {
+        "text": "/\\u02c8da\\u026a.\\u0259\\u02cct\\u0279a\\u026ab/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diatribe-uk.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An abusive, bitter, attack or criticism: denunciation."
+      }
+    ],
+    "frequency": "8578.15"
+  },
+  {
+    "word": "dichotomy",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dichotomy-au.mp3"
+      },
+      { "text": "/da\\u026a\\u02c8k\\u0252t.\\u0259.mi/", "audio": "" },
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dichotomy-us.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A separation or division into two; a distinction that results in such a division."
+      }
+    ],
+    "frequency": "22259.59"
+  },
+  {
+    "word": "diffidence",
+    "phonetics": [
+      { "text": "/\\u02c8d\\u026af\\u026ad\\u0259ns/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The state of being diffident, timid or shy; reticence or self-effacement."
+      }
+    ],
+    "frequency": "3046.43"
+  },
+  {
+    "word": "diffuse",
+    "phonetics": [
+      { "text": "/d\\u026a\\u02c8fju\\u02d0z/", "audio": "" },
+      {
+        "text": "/d\\u026a\\u02c8fjuz/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diffuse-1-us.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To spread over or through as in air, water, or other matter, especially by fluid motion or passive means."
+      }
+    ],
+    "frequency": "613.88"
+  },
+  {
+    "word": "digression",
+    "phonetics": [
+      {
+        "text": "/d\\u026a\\u02c8\\u0261\\u0279\\u025b\\u0283\\u0259n/",
+        "audio": ""
+      },
+      {
+        "text": "/da\\u026a\\u02c8\\u0261\\u0279\\u025b\\u0283\\u0259n/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An aside, an act of straying from the main subject in speech or writing."
+      }
+    ],
+    "frequency": "2922.23"
+  },
+  {
+    "word": "dirge",
+    "phonetics": [
+      { "text": "/d\\u025c\\u02d0d\\u0292/", "audio": "" },
+      {
+        "text": "/d\\u025dd\\u0292/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dirge-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A mournful poem or piece of music composed or performed as a memorial to a dead person."
+      },
+      { "partOfSpeech": "verb", "definition": "To sing dirges" }
+    ],
+    "frequency": "3476.25"
+  },
+  {
+    "word": "disabuse",
+    "phonetics": [
+      { "text": "/d\\u026as\\u0259\\u02c8bju\\u02d0z/", "audio": "" },
+      { "text": "/d\\u026as\\u0259\\u02c8bju\\u02d0z/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To free (someone) of a misconception or misapprehension; to unveil a falsehood held by (somebody)."
+      }
+    ],
+    "frequency": "10658.63"
+  },
+  {
+    "word": "discerning",
+    "phonetics": [
+      { "text": "/d\\u026a\\u02c8s\\u025c\\u02d0n.i\\u014b/", "audio": "" },
+      { "text": "/d\\u026a\\u02c8s\\u025dn.i\\u014b/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To detect with the senses, especially with the eyes."
+      },
+      { "partOfSpeech": "noun", "definition": "Discernment" },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Of keen insight or good judgement; perceptive."
+      }
+    ],
+    "frequency": "2621.11"
+  },
+  {
+    "word": "discordant",
+    "phonetics": [
+      { "text": "/d\\u026as\\u02c8k\\u0254\\u02d0d\\u0259nt/", "audio": "" }
+    ],
+    "meanings": [
+      { "partOfSpeech": "adjective", "definition": "Not in harmony or accord" }
+    ],
+    "frequency": "1870.55"
+  },
+  {
+    "word": "discredit",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/discredit-us.mp3"
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "Discrediting or disbelieving." },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To harm the good reputation of a person; to cause an idea or piece of evidence to seem false or unreliable."
+      }
+    ],
+    "frequency": "869.36"
+  },
+  {
+    "word": "discrepancy",
+    "phonetics": [
+      {
+        "text": "/d\\u026as\\u02c8k\\u0279\\u025bp\\u0259nsi/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/discrepancy-au.mp3"
+      },
+      {
+        "text": "/d\\u026as\\u02c8k\\u0279\\u025bp\\u0259nsi/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/discrepancy-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An inconsistency between facts or sentiments."
+      }
+    ],
+    "frequency": "2408.68"
+  },
+  {
+    "word": "discrete",
+    "phonetics": [
+      {
+        "text": "/d\\u026as\\u02c8k\\u0279i\\u02d0t/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/discrete-us.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Separate; distinct; individual; non-continuous."
+      }
+    ],
+    "frequency": "13602.05"
+  },
+  {
+    "word": "disingenuous",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disingenuous-au.mp3"
+      },
+      {
+        "text": "/\\u02ccd\\u026as.\\u026an.\\u02c8d\\u0292\\u025bn.ju.\\u0259s/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u02ccd\\u026as.\\u026an.\\u02c8d\\u0292\\u025bn.ju.\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disingenuous-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Not honourable; unworthy of honour"
+      }
+    ],
+    "frequency": "7448.58"
+  },
+  {
+    "word": "disinterested",
+    "phonetics": [
+      {
+        "text": "/d\\u026a\\u02c8s\\u026ant(\\u0259)\\u0279\\u025bst\\u026ad/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disinterested-uk.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Having no stake or interest in the outcome; free of bias, impartial."
+      }
+    ],
+    "frequency": "1012.75"
+  },
+  {
+    "word": "disjointed",
+    "phonetics": [
+      {
+        "text": "/d\\u026as\\u02c8d\\u0292\\u0254\\u026an.t\\u026ad/",
+        "audio": ""
+      },
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disjointed-us.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Not connected, coherent, or continuous."
+      }
+    ],
+    "frequency": "3914.68"
+  },
+  {
+    "word": "dismiss",
+    "phonetics": [
+      {
+        "text": "/d\\u026as\\u02c8m\\u026as/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dismiss-au.mp3"
+      },
+      {
+        "text": "/d\\u026as\\u02c8m\\u026as/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dismiss-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To discharge; to end the employment or service of."
+      }
+    ],
+    "frequency": "172.24"
+  },
+  {
+    "word": "disparage",
+    "phonetics": [
+      {
+        "text": "/d\\u026as\\u02c8p\\u00e6\\u0279\\u026ad\\u0361\\u0292/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disparage-uk.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Inequality in marriage; marriage with an inferior."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To match unequally; to degrade or dishonor."
+      }
+    ],
+    "frequency": "1695.52"
+  },
+  {
+    "word": "disparate",
+    "phonetics": [
+      { "text": "/\\u02c8d\\u026asp(\\u0259)\\u0279\\u0259t/", "audio": "" },
+      {
+        "text": "/d\\u026a\\u02c8sp\\u00e6\\u0279\\u0259t/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disparate-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "(chiefly in the plural) Any of a group of unequal or dissimilar things."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Composed of inherently different or distinct elements; incongruous."
+      }
+    ],
+    "frequency": "2144.9"
+  },
+  {
+    "word": "dissemble",
+    "phonetics": [
+      {
+        "text": "[d\\u026a\\u02c8s\\u025bmb\\u0259\\u026b]",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dissemble-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To disguise or conceal something."
+      }
+    ],
+    "frequency": "2283.6"
+  },
+  {
+    "word": "disseminate",
+    "phonetics": [
+      {
+        "text": "/d\\u026a\\u02c8s\\u025bm\\u026a\\u02ccne\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disseminate-uk.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To sow and scatter principles, ideas, opinions, etc, or concrete things, for growth and propagation, like seeds."
+      }
+    ],
+    "frequency": "2231.9"
+  },
+  {
+    "word": "dissolution",
+    "phonetics": [
+      {
+        "text": "/\\u02ccd\\u026as\\u0259\\u02c8l(j)u\\u02d0\\u0283\\u0259n/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u02ccd\\u026as\\u0259\\u02c8lu\\u0283\\u0259n/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dissolution-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The termination of an organized body or legislative assembly, especially a formal dismissal."
+      }
+    ],
+    "frequency": "977.72"
+  },
+  {
+    "word": "dissonance",
+    "phonetics": [
+      { "text": "/\\u02c8d\\u026as\\u0259n\\u0259ns/", "audio": "" },
+      { "text": "/\\u02c8d\\u026as\\u0259n\\u0259ns/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A harsh, discordant combination of sounds."
+      }
+    ],
+    "frequency": "9120.84"
+  },
+  {
+    "word": "distend",
+    "phonetics": [
+      {
+        "text": "/d\\u026as\\u02c8t\\u025bnd/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/distend-uk.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To extend or expand, as from internal pressure; to swell"
+      }
+    ],
+    "frequency": "2543.33"
+  },
+  {
+    "word": "distill",
+    "phonetics": [{ "text": "[d\\u026a\\u02c8st\\u026a\\u026b]", "audio": "" }],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To subject a substance to distillation."
+      }
+    ],
+    "frequency": "851.13"
+  },
+  {
+    "word": "diverge",
+    "phonetics": [
+      { "text": "/da\\u026a\\u02c8v\\u025c\\u02d0d\\u0292/", "audio": "" },
+      { "text": "/d\\u026a\\u02c8v\\u025dd\\u0292/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "(of lines or paths) To run apart; to separate; to tend into different directions."
+      }
+    ],
+    "frequency": "996.73"
+  },
+  {
+    "word": "divest",
+    "phonetics": [
+      { "text": "/da\\u026a\\u02c8v\\u025bst/", "audio": "" },
+      {
+        "text": "/da\\u026a\\u02c8v\\u025bst/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/divest-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To strip, deprive, or dispossess (someone) of something (such as a right, passion, privilege, or prejudice)."
+      }
+    ],
+    "frequency": "1545.81"
+  },
+  {
+    "word": "document",
+    "phonetics": [
+      { "text": "/\\u02c8d\\u0252kj\\u028am\\u0259nt/", "audio": "" },
+      {
+        "text": "/\\u02c8d\\u0252kj\\u028am\\u025bnt/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/document-uk-verb.mp3"
+      },
+      {
+        "text": "/\\u02c8d\\u0251kj\\u028am\\u0259nt/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/document-us-noun.mp3"
+      },
+      { "text": "/\\u02c8d\\u0251kj\\u028am\\u025bnt/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An original or official paper used as the basis, proof, or support of anything else, including any writing, book, or other instrument conveying information pertinent to such proof or support."
+      },
+      { "partOfSpeech": "verb", "definition": "To record in documents." }
+    ],
+    "frequency": "125.93"
+  },
+  {
+    "word": "dogmatic",
+    "phonetics": [
+      { "text": "/d\\u0252\\u0261\\u02c8mat\\u026ak/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "One of an ancient sect of physicians who went by general principles; opposed to the empiric."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Adhering only to principles which are true a priori, rather than truths based on evidence or deduction."
+      }
+    ],
+    "frequency": "2146.07"
+  },
+  {
+    "word": "dormant",
+    "phonetics": [
+      { "text": "/\\u02c8d\\u0254\\u02d0m\\u0259nt/", "audio": "" },
+      { "text": "/\\u02c8d\\u0254\\u0279m\\u0259nt/", "audio": "" }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "A crossbeam or joist." },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Inactive, sleeping, asleep, suspended."
+      }
+    ],
+    "frequency": "1952.35"
+  },
+  {
+    "word": "dupe",
+    "phonetics": [
+      {
+        "text": "/dju\\u02d0p/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dupe-uk.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A person who has been deceived."
+      },
+      { "partOfSpeech": "verb", "definition": "To swindle, deceive, or trick." }
+    ],
+    "frequency": "1382.41"
+  },
+  {
+    "word": "ebullient",
+    "phonetics": [
+      { "text": "/\\u026a\\u02c8b\\u028alj\\u0259nt/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Enthusiastic; high-spirited."
+      }
+    ],
+    "frequency": "7870.05"
+  },
+  {
+    "word": "eclectic",
+    "phonetics": [
+      {
+        "text": "/\\u025bk\\u02c8l\\u025bk.t\\u026ak/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eclectic-au.mp3"
+      },
+      {
+        "text": "/\\u025bk\\u02c8l\\u025bk.t\\u026ak/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eclectic-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Someone who selects according to the eclectic method."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Selecting a mixture of what appears to be best of various doctrines, methods or styles."
+      }
+    ],
+    "frequency": "3621}",
+    "word": "efficacy",
+    "phonetics": [
+      { "text": "/\\u02c8\\u025bf.\\u026a.k\\u0259.si/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Ability to produce a desired effect under ideal testing conditions."
+      }
+    ],
+    "frequency": "943}",
+    "word": "effrontery",
+    "phonetics": [
+      {
+        "text": "/\\u025b\\u02c8f\\u0279\\u028cnt\\u0259\\u0279i/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Insolent and shameless audacity."
+      }
+    ],
+    "frequency": "3735.38"
+  },
+  {
+    "word": "elegy",
+    "phonetics": [
+      {
+        "text": "/\\u02c8\\u025bl\\u026ad\\u0292i/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/elegy-ca.mp3"
+      },
+      {
+        "text": "/\\u02c8\\u025bl\\u026ad\\u0292i/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/elegy-uk.mp3"
+      },
+      { "text": "/\\u02c8\\u025bl\\u026ad\\u0292i/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A mournful or plaintive poem; a funeral song; a poem of lamentation."
+      }
+    ],
+    "frequency": "2023.47"
+  },
+  {
+    "word": "elicit",
+    "phonetics": [
+      {
+        "text": "/\\u026a\\u02c8l\\u026as\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/elicit-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To evoke, educe (emotions, feelings, responses, etc.); to generate, obtain, or provoke as a response or answer."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Elicited; drawn out; made real; open; evident."
+      }
+    ],
+    "frequency": "1399.24"
+  },
+  {
+    "word": "embellish",
+    "phonetics": [
+      {
+        "text": "/\\u025bm-/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/embellish-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To make more beautiful and attractive; to decorate."
+      }
+    ],
+    "frequency": "1259.18"
+  },
+  {
+    "word": "empirical",
+    "phonetics": [
+      {
+        "text": "/\\u026am\\u02c8p\\u026a\\u0279\\u026ak\\u0259l/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/empirical-us.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Pertaining to or based on experience."
+      }
+    ],
+    "frequency": "2151.14"
+  },
+  {
+    "word": "emulate",
+    "phonetics": [
+      {
+        "text": "/\\u02c8\\u025bm.j\\u0259.le\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/emulate-uk.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To attempt to equal or be the same as."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Striving to excel; ambitious; emulous."
+      }
+    ],
+    "frequency": "1143.18"
+  },
+  {
+    "word": "endemic",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/endemic-au.mp3"
+      },
+      { "text": "/\\u025bn\\u02c8d\\u025bm.\\u026ak/", "audio": "" },
+      {
+        "text": "/\\u025bn\\u02c8d\\u025bm.\\u026ak/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/endemic-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An individual or species that is endemic to a region."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Native to a particular area or culture; originating where it occurs."
+      }
+    ],
+    "frequency": "7425.19"
+  },
+  {
+    "word": "enervate",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To reduce strength or energy; debilitate."
+      },
+      { "partOfSpeech": "adjective", "definition": "Made feeble; weakened." }
+    ],
+    "frequency": "3523.89"
+  },
+  {
+    "word": "engender",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/engender-au.mp3"
+      },
+      { "text": "/\\u025bn\\u02c8d\\u0292\\u025bn.d\\u0259/", "audio": "" },
+      {
+        "text": "/\\u025bn\\u02c8d\\u0292\\u025bn.d\\u025a/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/engender-us.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To beget (of a man); to bear or conceive (of a woman)."
+      }
+    ],
+    "frequency": "1631.25"
+  },
+  {
+    "word": "enhance",
+    "phonetics": [
+      { "text": "/\\u026an\\u02c8h\\u0251\\u02d0ns/", "audio": "" },
+      {
+        "text": "/\\u026an\\u02c8h\\u00e6ns/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/enhance-us.mp3"
+        }
+    ],
+    "meanings": [
+      { "partOfSpeech": "verb", "definition": "To lift, raise up." }
+    ],
+    "frequency": "638.99"
+  },
+  {
+    "word": "ephemeral",
+    "phonetics": [
+      {
+        "text": "/\\u0259\\u02c8f\\u025b.m\\u0259.\\u0279\\u0259l/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ephemeral-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Something which lasts for a short period of time."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Lasting for a short period of time."
+      }
+    ],
+    "frequency": "3585.87"
+  },
+  {
+    "word": "equanimity",
+    "phonetics": [
+      {
+        "text": "/\\u02cci\\u02d0kw\\u0259\\u02c8n\\u026am\\u026ati\\u02d0/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The state of being calm, stable and composed, especially under stress."
+      }
+    ],
+    "frequency": "2500.85"
+  },
+  {
+    "word": "equivocate",
+    "phonetics": [
+      {
+        "text": "/\\u026a\\u02c8kw\\u026av\\u0259\\u02ccke\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/equivocate-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To use words of equivocal or doubtful signification; to express one's opinions in terms which admit of different senses, with intent to deceive; to use ambiguous expressions with a view to mislead; as, to equivocate is the work of duplicity."
+      }
+    ],
+    "frequency": "6438.53"
+  },
+  {
+    "word": "erudite",
+    "phonetics": [
+      { "text": "/\\u02c8\\u025b\\u0279.\\u028a.da\\u026at/", "audio": "" },
+      {
+        "text": "/\\u02c8\\u025b\\u0279.(j)u.da\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/erudite-us.mp3"
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "A learned or scholarly person" },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Learned, scholarly, with emphasis on knowledge gained from books."
+      }
+    ],
+    "frequency": "5946.33"
+  },
+  {
+    "word": "esoteric",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/esoteric-au.mp3"
+      },
+      {
+        "text": "/\\u02cc\\u025bs.\\u0259\\u028a\\u02c8t\\u025b\\u0279.\\u026ak/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u02cc\\u025bs.o\\u028a\\u02c8t\\u025b\\u0279.\\u026ak/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/esoteric-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An esoteric doctrine or treatise; esoteric philosophy."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Intended for or likely to be understood by only a small number of people with a specialized knowledge or interest, or an enlightened inner circle."
+      }
+    ],
+    "frequency": "4614.31"
+  },
+  {
+    "word": "eulogy",
+    "phonetics": [
+      { "text": "/\\u02c8ju\\u02d0l\\u0259d\\u0292i/", "audio": "" },
+      { "text": "/\\u02c8jul\\u0259d\\u0292i/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An oration to honor a deceased person, usually at a funeral."
+      }
+    ],
+    "frequency": "1415.98"
+  },
+  {
+    "word": "euphemism",
+    "phonetics": [
+      {
+        "text": "/\\u02c8ju\\u02d0.f\\u0259\\u02ccm\\u026a.z(\\u0259)m/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/euphemism-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The use of a word or phrase to replace another with one that is considered less offensive, blunt or vulgar than the word or phrase which it replaces."
+      }
+    ],
+    "frequency": "5937.37"
+  },
+  {
+    "word": "exacerbate",
+    "phonetics": [
+      { "text": "/\\u026ak\\u02c8s\\u00e6s-/", "audio": "" },
+      {
+        "text": "/\\u026a\\u0261\\u02c8z\\u00e6s\\u025a\\u02ccbe\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/exacerbate-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To make worse (a problem, bad situation, negative feeling, etc.); aggravate; exasperate."
+      }
+    ],
+    "frequency": "4905.28"
+  },
+  {
+    "word": "exculpate",
+    "phonetics": [
+      { "text": "/\\u02c8\\u025bksk\\u0259lpe\\u026at/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To clear of or to free from guilt; exonerate."
+      }
+    ],
+    "frequency": "7912.19"
+  },
+  {
+    "word": "exigency",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "(chiefly in the plural) The demands or requirements of a situation."
+      }
+    ],
+    "frequency": "1756.17"
+  },
+  {
+    "word": "extrapolation",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A calculation of an estimate of the value of some function outside the range of known values."
+      }
+    ],
+    "frequency": "72512.11"
+  },
+  {
+    "word": "facetious",
+    "phonetics": [
+      {
+        "text": "/f\\u0259\\u02c8si\\u02d0\\u0283\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/facetious-au.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Treating serious issues with (often deliberately) inappropriate humour; flippant."
+      }
+    ],
+    "frequency": "2445.03"
+  },
+  {
+    "word": "facilitate",
+    "phonetics": [
+      {
+        "text": "/f\\u0259\\u02c8s\\u026al\\u0259te\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/facilitate-us.mp3"
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "verb", "definition": "To make easy or easier." }
+    ],
+    "frequency": "913.55"
+  },
+  {
+    "word": "fallacious",
+    "phonetics": [
+      { "text": "/f\\u0259.\\u02c8le\\u026a.\\u0283\\u0259s/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Characterized by fallacy; false or mistaken."
+      }
+    ],
+    "frequency": "4607.12"
+  },
+  {
+    "word": "fatuous",
+    "phonetics": [
+      { "text": "/\\u02c8f\\u00e6t.ju.\\u0259s/", "audio": "" },
+      { "text": "/\\u02c8f\\u00e6t\\u0283.u.\\u0259s/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Obnoxiously stupid, vacantly silly, content in one's foolishness."
+      }
+    ],
+    "frequency": "3416.99"
+  },
+  {
+    "word": "fawning",
+    "phonetics": [],
+    "meanings": [
+      { "partOfSpeech": "verb", "definition": "To give birth to a fawn." },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To exhibit affection or attempt to please."
+      },
+      { "partOfSpeech": "noun", "definition": "Servile flattery." },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Seeking favor by way of flattery; flattering, servile."
+      }
+    ],
+    "frequency": "5518.89"
+  },
+  {
+    "word": "felicitous",
+    "phonetics": [
+      {
+        "text": "/f\\u0259\\u02c8l\\u026as\\u026at\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/felicitous-uk.mp3"
+      },
+      { "text": "/f\\u0259\\u02c8l\\u026as\\u026at\\u0259s/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Characterized by felicity."
+      }
+    ],
+    "frequency": "4948.39"
+  },
+  {
+    "word": "fervor",
+    "phonetics": [
+      {
+        "text": "/\\u02c8f\\u025dv\\u025a/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fervor-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An intense, heated emotion; passion, ardor."
+      }
+    ],
+    "frequency": "1446.43"
+  },
+  {
+    "word": "flag",
+    "phonetics": [
+      { "text": "/fl\\u00e6\\u0261/", "audio": "" },
+      {
+        "text": "/fl\\u00e6\\u0261/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flag-us.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A piece of cloth, often decorated with an emblem, used as a visual signal or symbol."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To furnish or deck out with flags."
+      }
+    ],
+    "frequency": "120.36"
+  },
+  {
+    "word": "fledgling",
+    "phonetics": [
+      {
+        "text": "/\\u02c8fl\\u025bd\\u0361\\u0292.l\\u026a\\u014b/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fledgling-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A young bird which has just developed its flight feathers (notably wings)."
+      },
+      { "partOfSpeech": "adjective", "definition": "Untried or inexperienced." }
+    ],
+    "frequency": "4439.34"
+  },
+  {
+    "word": "flout",
+    "phonetics": [
+      { "text": "/fl\\u028c\\u028at/", "audio": "" },
+      {
+        "text": "/fla\\u028at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flout-uk.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The act by which something is flouted; violation of a law."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To express contempt for (laws, rules, etc.) by word or action."
+      }
+    ],
+    "frequency": "3136.1"
+  },
+  {
+    "word": "foment",
+    "phonetics": [
+      { "text": "/f\\u0259\\u028a\\u02c8m\\u025bnt/", "audio": "" },
+      {
+        "text": "/fo\\u028a\\u02c8m\\u025bnt/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/foment-us.mp3"
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "Fomentation." },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To incite or cause troublesome acts; to encourage; to instigate."
+      }
+    ],
+    "frequency": "2929.47"
+  },
+  {
+    "word": "forestall",
+    "phonetics": [
+      {
+        "text": "/f\\u0254\\u02d0(\\u0279)\\u02c8st\\u0254\\u02d0l/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/forestall-1-uk.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To prevent, delay or hinder something by taking precautionary or anticipatory measures; to avert."
+      }
+    ],
+    "frequency": "2194.23"
+  },
+  {
+    "word": "frugality",
+    "phonetics": [
+      {
+        "text": "/f\\u0279u\\u02d0\\u02c8\\u0261\\u00e6l\\u0259ti/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The quality of being frugal; prudent economy; thrift."
+      }
+    ],
+    "frequency": "4630.58"
+  },
+  {
+    "word": "futile",
+    "phonetics": [
+      { "text": "/\\u02c8fju\\u02d0.ta\\u026al/", "audio": "" },
+      { "text": "/\\u02c8fju.ta\\u026a.\\u0259l/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Incapable of producing results; doomed not to be successful; not worth attempting."
+      }
+    ],
+    "frequency": "586.69"
+  },
+  {
+    "word": "gainsay",
+    "phonetics": [
+      { "text": "/\\u02c8\\u0261e\\u026an\\u02ccse\\u026a/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To say something in contradiction to."
+      }
+    ],
+    "frequency": "3172.27"
+  },
+  {
+    "word": "garrulous",
+    "phonetics": [
+      {
+        "text": "/\\u02c8\\u0261\\u00e6\\u0279.j\\u028a.l\\u0259s/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u02c8\\u0261\\u00e6\\u0279.j\\u0259.l\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/garrulous-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Excessively or tiresomely talkative."
+      }
+    ],
+    "frequency": "3222.4"
+  },
+  {
+    "word": "goad",
+    "phonetics": [
+      { "text": "/\\u0261\\u0259\\u028ad/", "audio": "" },
+      {
+        "text": "/\\u0261o\\u028ad/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/goad-us.ogg"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A long, pointed stick used to prod animals."
+      },
+      { "partOfSpeech": "verb", "definition": "To prod with a goad." }
+    ],
+    "frequency": "1610.82"
+  },
+  {
+    "word": "gouge",
+    "phonetics": [
+      { "text": "/\\u0261a\\u028ad\\u0292/", "audio": "" },
+      {
+        "text": "/\\u0261a\\u028ad\\u0292/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gouge-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Senses relating to cutting tools."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To make a groove, hole, or mark in by scooping with or as if with a gouge."
+      }
+    ],
+    "frequency": "4355.94"
+  },
+  {
+    "word": "grandiloquent",
+    "phonetics": [
+      {
+        "text": "/\\u0261\\u0279\\u00e6n\\u02c8d\\u026al.\\u0259.kw\\u0259nt/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u0261\\u0279\\u00e6n\\u02c8d\\u026al.\\u0259.kw\\u0259nt/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/grandiloquent-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "(of a person, their language or writing) given to using language in a showy way by using an excessive amount of difficult words to impress others; bombastic; turgid"
+      }
+    ],
+    "frequency": "9213.25"
+  },
+  {
+    "word": "gregarious",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gregarious-au.mp3"
+      },
+      {
+        "text": "/\\u0261\\u0279\\u026a\\u02c8\\u0261\\u025b\\u0259.\\u0279\\u026a.\\u0259s/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u0261\\u0279\\u0268\\u02c8\\u0261\\u025b\\u0279.i.\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gregarious-us.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "(of a person) Describing one who enjoys being in crowds and socializing."
+      }
+    ],
+    "frequency": "4693.06"
+  },
+  {
+    "word": "guileless",
+    "phonetics": [
+      { "text": "/\\u02c8\\u0261a\\u026al.l\\u0259s/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Free from guile; honest but naive."
+      }
+    ],
+    "frequency": "3801.42"
+  },
+  {
+    "word": "gullible",
+    "phonetics": [
+      { "text": "/\\u02c8\\u0261\\u028cl\\u026abl\\u0329/", "audio": "" },
+      { "text": "/\\u02c8\\u0261\\u028cl\\u026abl\\u0329/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A gullible person; someone easily fooled or tricked."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Easily deceived or duped; naive, easily cheated or fooled."
+      }
+    ],
+    "frequency": "10181.28"
+  },
+  {
+    "word": "harangue",
+    "phonetics": [
+      { "text": "/h\\u0259\\u02c8\\u0279e\\u026a\\u014b/", "audio": "" },
+      {
+        "text": "/h\\u0259\\u02c8\\u0279\\u00e6\\u014b/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/harangue-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An impassioned, disputatious public speech."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To give a forceful and lengthy lecture or criticism to someone."
+      }
+    ],
+    "frequency": "1483.79"
+  },
+  {
+    "word": "hyperbole",
+    "phonetics": [
+      {
+        "text": "/ha\\u026a\\u02c8p\\u025d\\u02d0b\\u0259li/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hyperbole-au.mp3"
+      },
+      {
+        "text": "/ha\\u026a\\u02c8p\\u025d\\u02d0b\\u0259li/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hyperbole-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Deliberate or unintentional overstatement, particularly extreme overstatement."
+      }
+    ],
+    "frequency": "5166.78"
+  },
+  {
+    "word": "iconoclast",
+    "phonetics": [
+      {
+        "text": "/a\\u026a\\u02c8k\\u0252n\\u0259kl\\u00e6st/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/iconoclast-au.mp3"
+      },
+      {
+        "text": "/a\\u026a\\u02c8k\\u0252n\\u0259kl\\u00e6st/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/iconoclast-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "One who destroys religious images or icons, especially an opponent of the Orthodox Church in the 8th and 9th centuries, or a Puritan during the European Reformation."
+      }
+    ],
+    "frequency": "7766.64"
+  },
+  {
+    "word": "idolatry",
+    "phonetics": [
+      {
+        "text": "/a\\u026a\\u02c8d\\u0252l.\\u0259.t\\u0279i\\u02d0/",
+        "audio": ""
+      },
+      { "text": "/a\\u026a\\u02c8d\\u0251.l\\u0259.t\\u0279i/", "audio": "" }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "The worship of idols." }
+    ],
+    "frequency": "989.48"
+  },
+  {
+    "word": "immutable",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Something that cannot be changed"
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Unable to be changed without exception."
+      }
+    ],
+    "frequency": "2447.56"
+  },
+  {
+    "word": "impair",
+    "phonetics": [{ "text": "/\\u026am\\u02c8p\\u025b\\u0259/", "audio": "" }],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To weaken; to affect negatively; to have a diminishing effect on."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Not fit or appropriate; unsuitable."
+      }
+    ],
+    "frequency": "757.48"
+  },
+  {
+    "word": "impassive",
+    "phonetics": [
+      { "text": "/\\u026am\\u02c8p\\u00e6s\\u026av/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Having, or revealing, no emotion."
+      }
+    ],
+    "frequency": "1805.75"
+  },
+  {
+    "word": "impede",
+    "phonetics": [
+      {
+        "text": "/\\u026am\\u02c8pi\\u02d0d/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/impede-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To get in the way of; to hinder."
+      }
+    ],
+    "frequency": "644.79"
+  },
+  {
+    "word": "impermeable",
+    "phonetics": [],
+    "meanings": [
+      { "partOfSpeech": "adjective", "definition": "Impossible to permeate." }
+    ],
+    "frequency": "29184.48"
+  },
+  {
+    "word": "imperturbable",
+    "phonetics": [
+      {
+        "text": "/\\u02cc\\u026amp\\u0259\\u02c8t\\u025c\\u02d0b\\u0259b\\u0259l/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u02cc\\u026amp\\u025a\\u02c8t\\u025db\\u0259b\\u0259l/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Not easily perturbed, upset or excited."
+      }
+    ],
+    "frequency": "2194.23"
+  },
+  {
+    "word": "impervious",
+    "phonetics": [
+      { "text": "/\\u026am\\u02c8p\\u025c\\u02d0vi.\\u0259s/", "audio": "" },
+      {
+        "text": "/\\u026am\\u02c8p\\u025d.vi.\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/impervious-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Unaffected or unable to be affected by something."
+      }
+    ],
+    "frequency": "3358.76"
+  },
+  {
+    "word": "implacable",
+    "phonetics": [
+      {
+        "text": "/-\\u02c8ple\\u026a-/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/implacable-uk.mp3"
+      },
+      { "text": "/\\u026am\\u02c8pl\\u00e6k\\u0259b\\u0259l/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Not able to be placated or appeased."
+      }
+    ],
+    "frequency": "1576.7"
+  },
+  {
+    "word": "implicit",
+    "phonetics": [
+      {
+        "text": "/\\u026am\\u02c8pl\\u026as\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/implicit-au.mp3"
+      },
+      {
+        "text": "/\\u026am\\u02c8pl\\u026as\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/implicit-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Implied indirectly, without being directly expressed"
+      }
+    ],
+    "frequency": "956.79"
+  },
+  {
+    "word": "implode",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To collapse or burst inward violently."
+      }
+    ],
+    "frequency": "9850.43"
+  },
+  {
+    "word": "inadvertently",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definition": "Unintentionally, because of an oversight"
+      }
+    ],
+    "frequency": "2946.26"
+  },
+  {
+    "word": "inchoate",
+    "phonetics": [
+      { "text": "/\\u026an\\u02c8k\\u0259\\u028ae\\u026at/", "audio": "" },
+      {
+        "text": "/\\u026an\\u02c8ko\\u028ae\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inchoate-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A beginning, an immature start."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To begin or start (something)."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Recently started but not fully formed yet; just begun; only elementary or immature."
+      }
+    ],
+    "frequency": "13889.73"
+  },
+  {
+    "word": "incongruity",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The state of being incongruous, or lacking congruence."
+      }
+    ],
+    "frequency": "3365.45"
+  },
+  {
+    "word": "inconsequential",
+    "phonetics": [
+      {
+        "text": "/\\u026an\\u02cck\\u0251ns\\u0259\\u02c8kw\\u025bn\\u0283\\u0259l/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u026an\\u02cck\\u0252n.s\\u0259\\u02c8kw\\u025bn.\\u0283\\u0259l/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Something unimportant; something that does not matter."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Having no consequence; not consequential; of little importance."
+      }
+    ],
+    "frequency": "9227.63"
+  },
+  {
+    "word": "incorporate",
+    "phonetics": [
+      {
+        "text": "/\\u026a\\u014b\\u02c8k\\u0254\\u0279p\\u025ae(\\u026a)t/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/incorporate-ca.mp3"
+      },
+      {
+        "text": "/\\u026a\\u014b\\u02c8k\\u0254\\u02d0(\\u0279).p\\u0259\\u0279.e\\u026at/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u026a\\u014b\\u02c8k\\u0254\\u0279p\\u025ae\\u026at/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To include (something) as a part."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Corporate; incorporated; made one body, or united in one body; associated; mixed together; combined; embodied."
+      }
+    ],
+    "frequency": "564.76"
+  },
+  {
+    "word": "indeterminate",
+    "phonetics": [
+      {
+        "text": "/\\u026and\\u026a\\u02c8t\\u025c\\u02d0(\\u0279)m\\u026an\\u0259t/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Not accurately determined or determinable."
+      }
+    ],
+    "frequency": "5108.74"
+  },
+  {
+    "word": "indigence",
+    "phonetics": [
+      {
+        "text": "/\\u02c8\\u026and\\u026ad\\u0361\\u0292\\u0259ns/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "Extreme poverty or destitution" }
+    ],
+    "frequency": "10497.72"
+  },
+  {
+    "word": "indolent",
+    "phonetics": [
+      { "text": "/\\u02c8\\u026an.d\\u0259l.\\u0259nt/", "audio": "" },
+      {
+        "text": "/\\u02c8\\u026an.d\\u0259l.\\u0259nt/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/indolent-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Habitually lazy, procrastinating, or resistant to physical labor"
+      }
+    ],
+    "frequency": "799.82"
+  },
+  {
+    "word": "inert",
+    "phonetics": [{ "text": "/\\u026an\\u02c8\\u025dt/", "audio": "" }],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A substance that does not react chemically."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To fill with an inert gas to reduce the risk of explosion."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Unable to move or act; inanimate."
+      }
+    ],
+    "frequency": "1835.16"
+  },
+  {
+    "word": "ingenuous",
+    "phonetics": [
+      { "text": "/\\u026an\\u02c8d\\u0292\\u025bn.ju.\\u0259s/", "audio": "" }
+    ],
+    "meanings": [
+      { "partOfSpeech": "adjective", "definition": "Naive and trusting." }
+    ],
+    "frequency": "1314.69"
+  },
+  {
+    "word": "inherent",
+    "phonetics": [
+      {
+        "text": "/\\u026an\\u02c8h\\u025b\\u0279\\u0259nt/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inherent-uk.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Naturally as part or consequence of something."
+      }
+    ],
+    "frequency": "782.24"
+  },
+  {
+    "word": "innocuous",
+    "phonetics": [
+      { "text": "/\\u026a\\u02c8n\\u0252kju\\u0259s/", "audio": "" },
+      {
+        "text": "/\\u026a\\u02c8n\\u0251kju\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/innocuous-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Harmless; producing no ill effect."
+      }
+    ],
+    "frequency": "5337.03"
+  },
+  {
+    "word": "insensible",
+    "phonetics": [
+      { "text": "/\\u026an\\u02c8s\\u025bn.s\\u026a.bl\\u0329/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Unable to be perceived by the senses."
+      }
+    ],
+    "frequency": "557.44"
+  },
+  {
+    "word": "insinuate",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/insinuate-au.mp3"
+      },
+      { "text": "/\\u026an\\u02c8s\\u026anjue\\u026at/", "audio": "" },
+      {
+        "text": "/\\u026an\\u02c8s\\u026anjue\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/insinuate-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To hint; to suggest tacitly (usually something bad) while avoiding a direct statement."
+      }
+    ],
+    "frequency": "733.16"
+  },
+  {
+    "word": "insipid",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/insipid-au.mp3"
+      },
+      { "text": "/\\u026an\\u02c8s\\u026ap.\\u026ad/", "audio": "" },
+      {
+        "text": "/\\u026an\\u02c8s\\u026ap.\\u026ad/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/insipid-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Unappetizingly flavorless."
+      }
+    ],
+    "frequency": "2558.19"
+  },
+  {
+    "word": "insularity",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The quality or property of being insular."
+      }
+    ],
+    "frequency": "33674.25"
+  },
+  {
+    "word": "intractable",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Not tractable; not able to be managed, controlled, governed or directed."
+      }
+    ],
+    "frequency": "4950.46"
+  },
+  {
+    "word": "intransigence",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Unwillingness to change one's views or to agree."
+      }
+    ],
+    "frequency": "20067.74"
+  },
+  {
+    "word": "inundate",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inundate-au.mp3"
+      },
+      { "text": "/\\u02c8\\u026an.\\u0259n.de\\u026at/", "audio": "" },
+      {
+        "text": "/\\u02c8\\u026an.\\u0259n.de\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/inundate-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To cover with large amounts of water; to flood."
+      }
+    ],
+    "frequency": "1555.56"
+  },
+  {
+    "word": "inured",
+    "phonetics": [{ "text": "/\\u026a\\u02c8nj\\u028a\\u0279d/", "audio": "" }],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To cause someone to become accustomed to something (usually) unpleasant."
+      }
+    ],
+    "frequency": "4702.4"
+  },
+  {
+    "word": "invective",
+    "phonetics": [
+      {
+        "text": "/\\u026an\\u02c8v\\u025bkt\\u026av/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/invective-us.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An expression which inveighs or rails against a person."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Characterized by invection or railing."
+      }
+    ],
+    "frequency": "2300.48"
+  },
+  {
+    "word": "irascible",
+    "phonetics": [
+      {
+        "text": "/\\u026a\\u02c8\\u0279\\u00e6s.\\u0259.b\\u0259l/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u026a\\u02c8\\u0279\\u00e6s.\\u0259.b\\u0259l/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/irascible-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Easily provoked to outbursts of anger; irritable."
+      }
+    ],
+    "frequency": "4097.81"
+  },
+  {
+    "word": "irresolute",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Undecided or unsure how to act"
+      }
+    ],
+    "frequency": "2199.53"
+  },
+  {
+    "word": "itinerary",
+    "phonetics": [
+      { "text": "/a\\u026a\\u02c8t\\u026an\\u0259\\u0279i/", "audio": "" },
+      {
+        "text": "/a\\u026a\\u02c8t\\u026an\\u0259\\u0279\\u025b\\u0279i/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/itinerary-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A written schedule of activities for a vacation or road trip."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Itinerant; travelling from place to place; done on a journey"
+      }
+    ],
+    "frequency": "4429.37"
+  },
+  {
+    "word": "laconic",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/laconic-au.mp3"
+      },
+      { "text": "/l\\u0259\\u02c8k\\u0252n\\u026ak/", "audio": "" },
+      {
+        "text": "/l\\u0259\\u02c8k\\u0251n\\u026ak/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/laconic-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Using as few words as possible; pithy and concise."
+      }
+    ],
+    "frequency": "2553.77"
+  },
+  {
+    "word": "lassitude",
+    "phonetics": [
+      { "text": "/\\u02c8l\\u00e6s\\u026a\\u02cctju\\u02d0d/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Lethargy or lack of energy; fatigue."
+      }
+    ],
+    "frequency": "4854.93"
+  },
+  {
+    "word": "latent",
+    "phonetics": [
+      {
+        "text": "/\\u02c8le\\u026a.t\\u0259nt/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/latent-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "(forensics) The residue left by a person's finger that can be made visible by a process such as powder dusting; a latent fingerprint."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Existing or present but concealed or inactive."
+      }
+    ],
+    "frequency": "1177.87"
+  },
+  {
+    "word": "laud",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/laud-au.mp3"
+      },
+      { "text": "/l\\u0254\\u02d0d/", "audio": "" },
+      { "text": "/l\\u0254d/", "audio": "" }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "Praise or glorification." },
+      { "partOfSpeech": "verb", "definition": "To praise, to glorify" }
+    ],
+    "frequency": "881.79"
+  },
+  {
+    "word": "lethargic",
+    "phonetics": [
+      {
+        "text": "/l\\u0259\\u02c8\\u03b8\\u0251\\u0279d\\u0292\\u026ak/",
+        "audio": ""
+      },
+      {
+        "text": "/l\\u0259\\u02c8\\u03b8\\u0251\\u02d0d\\u0292\\u0259k/",
+        "audio": ""
+      },
+      {
+        "text": "/l\\u0259\\u02c8\\u03b8\\u0251\\u02d0.d\\u0292\\u026ak/",
+        "audio": ""
+      },
+      {
+        "text": "/l\\u0259\\u02c8\\u03b8\\u0251\\u0279d\\u0292\\u026ak/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "adjective", "definition": "Sluggish, slow" }
+    ],
+    "frequency": "7265.48"
+  },
+  {
+    "word": "levee",
+    "phonetics": [
+      {
+        "text": "/\\u02c8l\\u025bv.e\\u026a/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/levee-uk.mp3"
+      },
+      { "text": "/l\\u0259\\u02c8ve\\u026a/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An embankment to prevent inundation; as, the levees along the Mississippi."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To keep within a channel by means of levees."
+      }
+    ],
+    "frequency": "2179.27"
+  },
+  {
+    "word": "levity",
+    "phonetics": [
+      {
+        "text": "/\\u02c8l\\u025b.v\\u026a.ti/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/levity-uk.mp3"
+      },
+      { "text": "/\\u02c8l\\u025b.v\\u026a.ti/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Lightness of manner or speech, frivolity; lack of appropriate seriousness; inclination to make a joke of serious matters."
+      }
+    ],
+    "frequency": "1864.07"
+  },
+  {
+    "word": "loquacious",
+    "phonetics": [
+      {
+        "text": "/l\\u0259\\u028a\\u02c8kwe\\u026a\\u0283\\u0259s/",
+        "audio": ""
+      },
+      {
+        "text": "/lo\\u028a\\u02c8kwe\\u026a\\u0283\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/loquacious-us.mp3"
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "adjective", "definition": "Talkative; chatty." }
+    ],
+    "frequency": "5895.92"
+  },
+  {
+    "word": "lucid",
+    "phonetics": [{ "text": "/\\u02c8l(j)u\\u02d0s\\u026ad/", "audio": "" }],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "A lucid dream." },
+      { "partOfSpeech": "adjective", "definition": "Clear; easily understood" }
+    ],
+    "frequency": "867.39"
+  },
+  {
+    "word": "luminous",
+    "phonetics": [
+      { "text": "/\\u02c8lu\\u02d0m\\u026an\\u0259s/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Emitting light; glowing brightly."
+      }
+    ],
+    "frequency": "721.03"
+  },
+  {
+    "word": "magnanimity",
+    "phonetics": [
+      {
+        "text": "/\\u02ccm\\u00e6\\u0261n\\u0259\\u02c8n\\u026am\\u026ati/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The quality of being magnanimous; greatness of mind; elevation or dignity of soul."
+      }
+    ],
+    "frequency": "1953.96"
+  },
+  {
+    "word": "malingerer",
+    "phonetics": [
+      {
+        "text": "/m\\u0259\\u02c8l\\u026a\\u014b\\u0261\\u0259\\u0279\\u0259/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "A person who malingers." }
+    ],
+    "frequency": "68717.92"
+  },
+  {
+    "word": "malleable",
+    "phonetics": [
+      {
+        "text": "/\\u02c8m\\u00e6li.\\u0259b\\u0259l/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/malleable-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Able to be hammered into thin sheets; capable of being extended or shaped by beating with a hammer, or by the pressure of rollers."
+      }
+    ],
+    "frequency": "9078.81"
+  },
+  {
+    "word": "maverick",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/maverick-au.mp3"
+      },
+      { "text": "/\\u02c8m\\u00e6v\\u0259\\u0279\\u026ak/", "audio": "" },
+      {
+        "text": "/\\u02c8m\\u00e6v\\u0259\\u0279ik/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/maverick-us.mp3"
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "An unbranded range animal." },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To take an unbranded range animal."
+      },
+      { "partOfSpeech": "adjective", "definition": "Of cattle: unbranded." }
+    ],
+    "frequency": "2366.75"
+  },
+  {
+    "word": "mendacious",
+    "phonetics": [
+      { "text": "/m\\u025bn\\u02c8de\\u026a\\u0283\\u0259s/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "(of a person) Lying, untruthful or dishonest."
+      }
+    ],
+    "frequency": "15552.72"
+  },
+  {
+    "word": "metamorphosis",
+    "phonetics": [
+      {
+        "text": "/\\u02ccm\\u025bt\\u0259m\\u0254\\u02d0\\u02c8f\\u0259\\u028as\\u026as/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u02ccm\\u025b\\u027e\\u0259\\u02c8m\\u0254\\u0279f\\u0259s\\u026as/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A transformation, such as one performed by magic."
+      }
+    ],
+    "frequency": "2173.27"
+  },
+  {
+    "word": "meticulous",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meticulous-uk.mp3"
+        },
+      { "text": "/m\\u0268\\u02c8t\\u026akjul\\u0259s/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Characterized by very precise, conscientious attention to details."
+      }
+    ],
+    "frequency": "3383.74"
+  },
+  {
+    "word": "misanthrope",
+    "phonetics": [
+      {
+        "text": "/\\u02c8m\\u026as.\\u0259n\\u02cc\\u03b8\\u0279o\\u028ap/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "One who hates all mankind; one who hates the human race."
+      }
+    ],
+    "frequency": "9673.1"
+  },
+  {
+    "word": "mitigate",
+    "phonetics": [
+      {
+        "text": "/\\u02c8m\\u026at.\\u026a.\\u0261e\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mitigate-au.mp3"
+      },
+      {
+        "text": "/\\u02c8m\\u026at.\\u026a.\\u0261e\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mitigate-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To reduce, lessen, or decrease; to make less severe or easier to bear."
+      }
+    ],
+    "frequency": "975.63"
+  },
+  {
+    "word": "mollify",
+    "phonetics": [
+      {
+        "text": "/\\u02c8m\\u0252l\\u026afa\\u026a/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mollify-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To ease a burden, particularly worry; make less painful; to comfort."
+      }
+    ],
+    "frequency": "3405.18"
+  },
+  {
+    "word": "morose",
+    "phonetics": [
+      { "text": "/m\\u0259\\u02c8\\u0279\\u0259\\u028as/", "audio": "" },
+      {
+        "text": "/m\\u0252\\u02c8\\u0279o\\u028as/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/morose-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Sullen, gloomy; showing a brooding ill humour."
+      }
+    ],
+    "frequency": "2157.02"
+  },
+  {
+    "word": "mundane",
+    "phonetics": [
+      {
+        "text": "/m\\u028cn\\u02c8de\\u026an/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mundane-us.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An unremarkable, ordinary human being."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Worldly, earthly, profane, vulgar as opposed to heavenly."
+      }
+    ],
+    "frequency": "3411.07"
+  },
+  {
+    "word": "negate",
+    "phonetics": [{ "text": "/n\\u026a\\u02c8\\u0261e\\u026at/", "audio": "" }],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To deny the existence, evidence, or truth of; to contradict."
+      }
+    ],
+    "frequency": "264.89"
+  },
+  {
+    "word": "neophyte",
+    "phonetics": [
+      { "text": "/\\u02c8ni.\\u0259\\u02ccfa\\u026at/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A beginner; a person who is new to a subject, skill, or belief."
+      }
+    ],
+    "frequency": "5964.33"
+  },
+  {
+    "word": "obdurate",
+    "phonetics": [
+      { "text": "/-\\u0259t/", "audio": "" },
+      {
+        "text": "/-\\u0259t/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/obdurate-us.mp3"
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "verb", "definition": "To harden; to obdure." },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Stubbornly persistent, generally in wrongdoing; refusing to reform or repent."
+      }
+    ],
+    "frequency": "2891.51"
+  },
+  {
+    "word": "obsequious",
+    "phonetics": [
+      { "text": "/\\u0259b\\u02c8si\\u02d0kwi.\\u0259s/", "audio": "" },
+      {
+        "text": "/\\u0259b\\u02c8si\\u02d0kwi.\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/obsequious-us.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Obedient; compliant with someone else's orders or wishes."
+      }
+    ],
+    "frequency": "2498.74"
+  },
+  {
+    "word": "obviate",
+    "phonetics": [
+      {
+        "text": "/\\u02c8\\u0252bvi\\u02cce\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/obviate-uk.mp3"
+      },
+      { "text": "/\\u02c8\\u0251bvi\\u02cce\\u026at/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To anticipate and prevent or bypass (something which would otherwise have been necessary or required)."
+      }
+    ],
+    "frequency": "2798.47"
+  },
+  {
+    "word": "occlude",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To obstruct, cover, or otherwise block (an opening, a portion of an image, etc.)."
+      }
+    ],
+    "frequency": "27297.33"
+  },
+  {
+    "word": "officious",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Obliging, attentive, eager to please."
+      }
+    ],
+    "frequency": "3001.59"
+  },
+  {
+    "word": "onerous",
+    "phonetics": [
+      { "text": "/\\u02c8\\u0252n\\u0259\\u0279\\u0259s/", "audio": "" },
+      { "text": "/\\u02c8o\\u028an\\u0259\\u0279\\u0259s/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Imposing or constituting a physical, mental, or figurative load which can be borne only with effort; burdensome."
+      }
+    ],
+    "frequency": "5030.49"
+  },
+  {
+    "word": "oscillate",
+    "phonetics": [
+      {
+        "text": "/\\u02c8\\u0251s\\u026ale\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/oscillate-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To swing back and forth, especially if with a regular rhythm."
+      }
+    ],
+    "frequency": "2326.26"
+  },
+  {
+    "word": "ostentatious",
+    "phonetics": [
+      {
+        "text": "/\\u02cc\\u0252s.t\\u0259n\\u02c8te\\u026a.\\u0283\\u0259s/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "adjective", "definition": "Of ostentation." }
+    ],
+    "frequency": "1511.46"
+  },
+  {
+    "word": "paragon",
+    "phonetics": [
+      {
+        "text": "/\\u02c8p\\u00e6\\u0279\\u0259\\u0261\\u0259n/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/paragon-uk.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A person of preeminent qualities, who acts as a pattern or model for others."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To compare; to parallel; to put in rivalry or emulation with."
+      }
+    ],
+    "frequency": "4289.57"
+  },
+  {
+    "word": "partisan",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/partisan-au.mp3"
+      },
+      {
+        "text": "/\\u02c8p\\u0251\\u02d0.t\\u026a\\u02ccz\\u00e6n/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u02c8p\\u0251\\u0279.\\u027e\\u0259.z\\u0259n/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/partisan-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An adherent to a party or faction."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Serving as commander or member of a body of detached light troops."
+      }
+    ],
+    "frequency": "460.32"
+  },
+  {
+    "word": "pathological",
+    "phonetics": [],
+    "meanings": [
+      { "partOfSpeech": "adjective", "definition": "Pertaining to pathology." }
+    ],
+    "frequency": "3848.43"
+  },
+  {
+    "word": "paucity",
+    "phonetics": [{ "text": "/\\u02c8p\\u0251s\\u026ati/", "audio": "" }],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "Fewness in number; too few." }
+    ],
+    "frequency": "8312.75"
+  },
+  {
+    "word": "pedantic",
+    "phonetics": [
+      {
+        "text": "/p\\u0259\\u02c8d\\u00e6n.t\\u026ak/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pedantic-au.mp3"
+      },
+      {
+        "text": "/p\\u0259\\u02c8d\\u00e6n.t\\u026ak/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pedantic-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Like a pedant, overly concerned with formal rules and trivial points of learning."
+      }
+    ],
+    "frequency": "2101.09"
+  },
+  {
+    "word": "penchant",
+    "phonetics": [
+      { "text": "/\\u02c8p\\u0252n\\u0283\\u0252n/", "audio": "" },
+      { "text": "/\\u02c8p\\u025bnt\\u0361\\u0283\\u0259nt/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Taste, liking, or inclination (for)."
+      }
+    ],
+    "frequency": "5485.6"
+  },
+  {
+    "word": "penury",
+    "phonetics": [
+      { "text": "/\\u02c8p\\u025bnj\\u0259\\u0279i/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Extreme want; poverty; destitution."
+      }
+    ],
+    "frequency": "3397.35"
+  },
+  {
+    "word": "perennial",
+    "phonetics": [
+      {
+        "text": "/p\\u0259\\u02c8\\u0279\\u025bni.\\u0259l/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/perennial-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A perennial plant; a plant that is active throughout the year or survives for more than two growing seasons."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Lasting or remaining active throughout the year, or all the time."
+      }
+    ],
+    "frequency": "1411.25"
+  },
+  {
+    "word": "perfidious",
+    "phonetics": [
+      {
+        "text": "/p\\u0259\\u02c8f\\u026adi.\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/perfidious-uk.mp3"
+      },
+      { "text": "/p\\u025a\\u02c8f\\u026adi.\\u0259s/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Of, pertaining to, or representing perfidy; disloyal to what should command one's fidelity or allegiance."
+      }
+    ],
+    "frequency": "3367.37"
+  },
+  {
+    "word": "perfunctory",
+    "phonetics": [
+      {
+        "text": "/p\\u0259\\u02c8f\\u028c\\u014bk.t(\\u0259)\\u0279\\u026a/",
+        "audio": ""
+      },
+      {
+        "text": "/p\\u025a\\u02c8f\\u028c\\u014bk.t\\u025a.i/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/perfunctory-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Done only to fulfil a duty, or in a careless or indifferent manner; performed mechanically and as a thing of rote."
+      }
+    ],
+    "frequency": "2985.67"
+  },
+  {
+    "word": "permeable",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "That absorbs or allows the passage of fluids"
+      }
+    ],
+    "frequency": "13873.43"
+  },
+  {
+    "word": "pervasive",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pervasive-au.mp3"
+      },
+      { "text": "/p\\u0259\\u02c8ve\\u026a.s\\u026av/", "audio": "" },
+      {
+        "text": "/p\\u025a\\u02c8ve\\u026a.s\\u026av/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pervasive-us.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Manifested throughout; pervading, permeating, penetrating or affecting everything."
+      }
+    ],
+    "frequency": "4617.92"
+  },
+  {
+    "word": "phlegmatic",
+    "phonetics": [
+      {
+        "text": "/fl\\u025b\\u0261\\u02c8m\\u00e6t\\u026ak/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/phlegmatic-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "One who has a phlegmatic disposition."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Not easily excited to action or passion; calm; sluggish."
+      }
+    ],
+    "frequency": "4823.24"
+  },
+  {
+    "word": "piety",
+    "phonetics": [{ "text": "/\\u02c8pa\\u026a.\\u026a.ti/", "audio": "" }],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "Reverence and devotion to God." }
+    ],
+    "frequency": "523.79"
+  },
+  {
+    "word": "placate",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/placate-au.mp3"
+      },
+      { "text": "/ple\\u026a\\u02c8ke\\u026at/", "audio": "" },
+      {
+        "text": "/ple\\u026a\\u02c8ke\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/placate-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To calm; to bring peace to; to influence someone who was furious to the point that they become content or at least no longer irate."
+      }
+    ],
+    "frequency": "1133.44"
+  },
+  {
+    "word": "plasticity",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The quality or state of being plastic."
+      }
+    ],
+    "frequency": "20344.05"
+  },
+  {
+    "word": "platitude",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/platitude-au.mp3"
+      },
+      { "text": "/\\u02c8plat\\u026atju\\u02d0d/", "audio": "" },
+      {
+        "text": "/\\u02c8pl\\u00e6t\\u026at(j)ud/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/platitude-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An often-quoted saying that is supposed to be meaningful but has become unoriginal or hackneyed through overuse; a clich\\u00e9."
+      }
+    ],
+    "frequency": "3370.24"
+  },
+  {
+    "word": "plethora",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plethora-au.mp3"
+      },
+      {
+        "text": "/pl\\u026a\\u02c8\\u03b8\\u0254\\u02d0\\u0279\\u0259/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u02c8pl\\u025b\\u03b8\\u0259\\u0279\\u0259/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plethora-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "(usually followed by of) An excessive amount or number; an abundance."
+      }
+    ],
+    "frequency": "6990.54"
+  },
+  {
+    "word": "plummet",
+    "phonetics": [
+      {
+        "text": "/\\u02c8pl\\u028cm.\\u0259t/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plummet-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A piece of lead attached to a line, used in sounding the depth of water, a plumb bob or a plumb line"
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To drop swiftly, in a direct manner; to fall quickly."
+      }
+    ],
+    "frequency": "3040.95"
+  },
+  {
+    "word": "porous",
+    "phonetics": [
+      {
+        "text": "/\\u02c8p\\u0254\\u02d0\\u0279\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/porous-au.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Full of tiny pores that allow fluids or gasses to pass through."
+      }
+    ],
+    "frequency": "3413.04"
+  },
+  {
+    "word": "pragmatic",
+    "phonetics": [
+      {
+        "text": "/p\\u0279\\u00e6\\u0261\\u02c8m\\u00e6t\\u026ak/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pragmatic-us.mp3"
+        }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "A man of business." },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Practical, concerned with making decisions and actions that are useful in practice, not just theory."
+      }
+    ],
+    "frequency": "1734.04"
+  },
+  {
+    "word": "preamble",
+    "phonetics": [
+      {
+        "text": "/\\u02c8p\\u0279\\u026ai\\u02cc\\u00e6mbl\\u0329/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A short preliminary statement or remark, especially an explanatory introduction to a formal document or statute."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To speak or write a preamble; to provide a preliminary statement or set of remarks."
+      }
+    ],
+    "frequency": "2990.2"
+  },
+  {
+    "word": "precarious",
+    "phonetics": [
+      {
+        "text": "/p\\u0279\\u0259\\u02c8k\\u025b\\u0259\\u0279i.\\u0259s/",
+        "audio": ""
+      },
+      {
+        "text": "/p\\u0279\\u0259\\u02c8k\\u025b\\u0279i.\\u0259s/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Dangerously insecure or unstable; perilous."
+      }
+    ],
+    "frequency": "1156.7"
+  },
+  {
+    "word": "precipitate",
+    "phonetics": [
+      {
+        "text": "/p\\u0279\\u0259\\u02c8s\\u026ap\\u026ate\\u026at/",
+        "audio": ""
+      },
+      {
+        "text": "/p\\u0279\\u0259\\u02c8s\\u026ap\\u026ate\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/precipitate-1-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To make something happen suddenly and quickly."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Headlong; falling steeply or vertically."
+      }
+    ],
+    "frequency": "506.9"
+  },
+  {
+    "word": "precursor",
+    "phonetics": [
+      {
+        "text": "/p\\u0279\\u0268\\u02c8k\\u025c\\u0279.s\\u0259\\u0279/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "That which precurses: a forerunner, predecessor, or indicator of approaching events."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "(of intersymbol interference) Caused by the following symbol."
+      }
+    ],
+    "frequency": "3257.01"
+  },
+  {
+    "word": "presumptuous",
+    "phonetics": [
+      {
+        "text": "/p\\u0279\\u0259\\u02c8z\\u028cmp.tju\\u02d0.\\u0259s/",
+        "audio": ""
+      },
+      {
+        "text": "/p\\u0279i\\u02c8z\\u0259mpt\\u0283u\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/presumptuous-us.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Going beyond what is right, proper, or appropriate because of an excess of self-confidence or arrogance."
+      }
+    ],
+    "frequency": "1923.46"
+  },
+  {
+    "word": "prevaricate",
+    "phonetics": [
+      {
+        "text": "/p\\u0279\\u026a\\u02c8va\\u0279\\u026ake\\u026at/",
+        "audio": ""
+      },
+      {
+        "text": "/p\\u0279\\u026a\\u02c8v\\u00e6\\u0279\\u026ake\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prevaricate-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To deviate, transgress; to go astray (from)."
+      }
+    ],
+    "frequency": "6459.64"
+  },
+  {
+    "word": "pristine",
+    "phonetics": [
+      {
+        "text": "/p\\u0279\\u026as\\u02c8ta\\u026an/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pristine-1-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Unspoiled; still with its original purity; uncorrupted or unsullied."
+      }
+    ],
+    "frequency": "4267.9"
+  },
+  {
+    "word": "probity",
+    "phonetics": [
+      { "text": "/\\u02c8p\\u0279\\u0259\\u028ab\\u026ati/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Integrity, especially of the quality of having strong moral principles; honesty and decency."
+      }
+    ],
+    "frequency": "4406.26"
+  },
+  {
+    "word": "problematic",
+    "phonetics": [
+      {
+        "text": "/\\u02ccp\\u0279\\u0252bl\\u0259\\u02c8m\\u00e6t\\u026ak/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u02ccp\\u0279\\u0251bl\\u0259\\u02c8m\\u00e6t\\u026ak/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "(chiefly in the plural) A problem or difficulty in a particular field of study."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Posing a problem; having or suffering from problem(s):"
+      }
+    ],
+    "frequency": "6172.96"
+  },
+  {
+    "word": "prodigal",
+    "phonetics": [
+      {
+        "text": "/\\u02c8p\\u0279\\u0252d\\u026a\\u0261\\u0259l/",
+        "audio": ""
+      },
+      { "text": "/\\u02c8p\\u0279\\u0251d\\u026a\\u0261\\u0259l/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A prodigal person, a spendthrift."
+      },
+      { "partOfSpeech": "adjective", "definition": "Wastefully extravagant." }
+    ],
+    "frequency": "1115.08"
+  },
+  {
+    "word": "profound",
+    "phonetics": [
+      {
+        "text": "/p\\u0279\\u0259\\u02c8fa\\u028and/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/profound-us.mp3"
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "The deep; the sea; the ocean." },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To cause to sink deeply; to cause to dive or penetrate far down."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Descending far below the surface; opening or reaching to great depth; deep."
+      }
+    ],
+    "frequency": "155.59"
+  },
+  {
+    "word": "prohibitive",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prohibitive-us.mp3"
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "Negative imperative" },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Tending to prohibit, preclude, or disallow."
+      }
+    ],
+    "frequency": "6716.52"
+  },
+  {
+    "word": "proliferate",
+    "phonetics": [
+      {
+        "text": "/p\\u0279\\u0259\\u02c8l\\u026af.\\u0259\\u0279.e\\u026at/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To increase in number or spread rapidly; to multiply."
+      }
+    ],
+    "frequency": "2811.11"
+  },
+  {
+    "word": "propensity",
+    "phonetics": [
+      {
+        "text": "/p\\u0279\\u0259\\u02c8p\\u025bns\\u026ati/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/propensity.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An inclination, disposition, tendency, preference, or attraction."
+      }
+    ],
+    "frequency": "1375.98"
+  },
+  {
+    "word": "propitiate",
+    "phonetics": [
+      {
+        "text": "/\\u02ccp\\u0279\\u0259\\u02c8p\\u026a\\u0283ie\\u026at/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To conciliate, appease, or make peace with someone, particularly a god or spirit."
+      }
+    ],
+    "frequency": "2029.37"
+  },
+  {
+    "word": "propriety",
+    "phonetics": [
+      {
+        "text": "/p\\u0279\\u0259\\u02c8p\\u0279a\\u026a\\u0259ti/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The particular character or essence of someone or something; individuality."
+      }
+    ],
+    "frequency": "440.15"
+  },
+  {
+    "word": "proscribe",
+    "phonetics": [
+      {
+        "text": "/\\u02c8p\\u0279\\u0259\\u028a\\u02ccsk\\u0279a\\u026ab/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u02c8p\\u0279o\\u028a\\u02ccsk\\u0279a\\u026ab/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "verb", "definition": "To forbid or prohibit." }
+    ],
+    "frequency": "2075.29"
+  },
+  {
+    "word": "pungent",
+    "phonetics": [
+      {
+        "text": "/\\u02c8p\\u028cnd\\u0292\\u0259nt/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pungent-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Having a strong odor that stings the nose, said especially of acidic or spicy substances."
+      }
+    ],
+    "frequency": "1948.81"
+  },
+  {
+    "word": "qualified",
+    "phonetics": [
+      { "text": "/\\u02c8kw\\u0252l.\\u026a.fa\\u026ad/", "audio": "" },
+      {
+        "text": "/\\u02c8kw\\u0251l.\\u026a.fa\\u026ad/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/qualified-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Meeting the standards, requirements, and training for a position."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To describe or characterize something by listing its qualities."
+      }
+    ],
+    "frequency": "447.08"
+  },
+  {
+    "word": "quibble",
+    "phonetics": [
+      {
+        "text": "/\\u02c8kw\\u026ab\\u0259l/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quibble-au.mp3"
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "A pun." },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To complain or argue in a trivial or petty manner."
+      }
+    ],
+    "frequency": "3779.55"
+  },
+  {
+    "word": "quiescent",
+    "phonetics": [
+      {
+        "text": "/\\u02c8kwa\\u026a\\u032f.\\u025bsn\\u0329t/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quiescent-uk.mp3"
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "adjective", "definition": "Inactive, quiet, at rest." }
+    ],
+    "frequency": "3996.71"
+  },
+  {
+    "word": "rarefied",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Distant from the lives and everyday concerns of ordinary people; esoteric, exclusive, select."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To make rare, thin, porous, or less dense"
+      }
+    ],
+    "frequency": "7142.58"
+  },
+  {
+    "word": "recalcitrant",
+    "phonetics": [
+      {
+        "text": "/\\u0279\\u026a.\\u02c8k\\u00e6l.s\\u026a.t\\u0279\\u0259nt/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/recalcitrant-au.mp3"
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "A person who is recalcitrant." },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Marked by a stubborn unwillingness to obey authority."
+      }
+    ],
+    "frequency": "6495.13"
+  },
+  {
+    "word": "recant",
+    "phonetics": [
+      {
+        "text": "/\\u0279\\u0259\\u02c8k\\u00e6nt/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/recant-uk.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To withdraw or repudiate a statement or opinion formerly expressed, especially formally and publicly."
+      }
+    ],
+    "frequency": "3779.55"
+  },
+  {
+    "word": "recluse",
+    "phonetics": [
+      { "text": "/\\u0279\\u026a\\u02c8klu\\u02d0s/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A person who lives in self-imposed isolation or seclusion from the world, especially for religious purposes; a hermit"
+      },
+      { "partOfSpeech": "verb", "definition": "To shut; to seclude" },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Sequestered; secluded, isolated"
+      }
+    ],
+    "frequency": "2847.65"
+  },
+  {
+    "word": "recondite",
+    "phonetics": [
+      {
+        "text": "/\\u0279\\u026a\\u02c8k\\u0252nda\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/recondite-uk.mp3"
+      },
+      { "text": "/\\u0279i\\u02c8k\\u0251n\\u02ccda\\u026at/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A recondite (hidden or obscure) person or thing."
+      },
+      { "partOfSpeech": "verb", "definition": "To conceal, cover up, hide." },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Of areas of discussion or research: difficult, obscure."
+      }
+    ],
+    "frequency": "8008.66"
+  },
+  {
+    "word": "refractory",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/refractory-au.mp3"
+      },
+      {
+        "text": "/\\u0279\\u026a\\u02c8f\\u0279\\u00e6k.t\\u0259\\u0279.i/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u0279\\u026a\\u02c8f\\u0279\\u00e6k.t\\u0259\\u0279.i/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/refractory-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A material or piece of material, such as a brick, that has a very high melting point."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Obstinate and unruly; strongly opposed to something."
+      }
+    ],
+    "frequency": "2923.68"
+  },
+  {
+    "word": "refute",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/refute-au.mp3"
+      },
+      { "text": "/\\u0279\\u0259\\u02c8fjut/", "audio": "" },
+      {
+        "text": "/\\u0279\\u0259\\u02c8fjut/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/refute-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To prove (something) to be false or incorrect."
+      }
+    ],
+    "frequency": "988.25"
+  },
+  {
+    "word": "relegate",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/relegate-1-au.mp3"
+      },
+      { "text": "/\\u02c8\\u0279\\u025bl\\u026a\\u0261e\\u026at/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "Exile, banish, remove, or send away."
+      }
+    ],
+    "frequency": "1951.06"
+  },
+  {
+    "word": "reproach",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reproach-au.mp3"
+      },
+      {
+        "text": "/\\u0279\\u026a\\u02c8p\\u0279\\u0259\\u028at\\u0283/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u0279\\u026a\\u02c8p\\u0279o\\u028at\\u0283/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reproach-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A mild rebuke, or an implied criticism."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To criticize or rebuke (someone)."
+      }
+    ],
+    "frequency": "188.52"
+  },
+  {
+    "word": "reprobate",
+    "phonetics": [
+      {
+        "text": "/\\u02c8\\u0279\\u025bp\\u0279\\u0259b\\u0259t/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reprobate-1-uk.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "One rejected by God; a sinful person."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Rejected; cast off as worthless."
+      }
+    ],
+    "frequency": "1865.83"
+  },
+  {
+    "word": "repudiate",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/repudiate-au.mp3"
+      },
+      { "text": "/\\u0279\\u0259\\u02c8pju\\u02d0.di.e\\u026at/", "audio": "" },
+      {
+        "text": "/\\u0279\\u0259\\u02c8pju\\u02d0.di.e\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/repudiate-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To reject the truth or validity of; to deny."
+      }
+    ],
+    "frequency": "995.22"
+  },
+  {
+    "word": "rescind",
+    "phonetics": [
+      {
+        "text": "/\\u0279\\u026a\\u02c8s\\u026and/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rescind-au.mp3"
+      },
+      {
+        "text": "/\\u0279\\u026a\\u02c8s\\u026and/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rescind-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To repeal, annul, or declare void; to take (something such as a rule or contract) out of effect."
+      }
+    ],
+    "frequency": "4513.91"
+  },
+  {
+    "word": "resolution",
+    "phonetics": [
+      {
+        "text": "/\\u02cc\\u0279\\u025bz\\u0259\\u02c8lu\\u02d0\\u0283(\\u0259)n/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u02cc\\u0279\\u025bz\\u0259\\u02c8l(j)u\\u0283(\\u0259)n/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/resolution-us.mp3"
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "A strong will, determination." }
+    ],
+    "frequency": "126.64"
+  },
+  {
+    "word": "resolve",
+    "phonetics": [
+      { "text": "/\\u0279i\\u02d0\\u02c8z\\u0252lv/", "audio": "" },
+      {
+        "text": "/\\u0279\\u026a\\u02c8z\\u0251lv/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/resolve-1-us.mp3"
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "Determination; will power." },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To find a solution to (a problem)."
+      }
+    ],
+    "frequency": "52.06"
+  },
+  {
+    "word": "reticent",
+    "phonetics": [
+      {
+        "text": "/\\u02c8\\u0279\\u025bt\\u026as\\u0259nt/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reticent-au.mp3"
+      },
+      {
+        "text": "/\\u02c8\\u0279\\u025bt\\u026as\\u0259nt/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reticent-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Keeping one's thoughts and opinions to oneself; reserved or restrained."
+      }
+    ],
+    "frequency": "1374.54"
+  },
+  {
+    "word": "reverent",
+    "phonetics": [
+      { "text": "/\\u02c8\\u0279\\u025bv\\u0279\\u0259nt/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Showing or characterized by great respect or reverence; respectful."
+      }
+    ],
+    "frequency": "192.65"
+  },
+  {
+    "word": "sage",
+    "phonetics": [
+      {
+        "text": "/se\\u026ad\\u0292/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sage-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A wise person or spiritual teacher; someone of gravity and wisdom, especially, a teacher venerable for years, and of sound judgment and prudence; a grave or stoic philosopher."
+      },
+      { "partOfSpeech": "adjective", "definition": "Wise." }
+    ],
+    "frequency": "393.86"
+  },
+  {
+    "word": "salubrious",
+    "phonetics": [
+      {
+        "text": "/s\\u0259\\u02c8lu\\u02d0.b\\u0279i\\u02d0.\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/salubrious-au.mp3"
+      },
+      {
+        "text": "/s\\u0259\\u02c8lu\\u02d0.b\\u0279i\\u02d0.\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/salubrious-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Promoting health or well-being; wholesome, especially as related to air."
+      }
+    ],
+    "frequency": "10323.54"
+  },
+  {
+    "word": "sanction",
+    "phonetics": [
+      { "text": "/\\u02c8s\\u00e6\\u014bk\\u0283\\u0259n/", "audio": "" },
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sanction-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An approval, by an authority, generally one that makes something valid."
+      },
+      { "partOfSpeech": "verb", "definition": "To ratify; to make valid." }
+    ],
+    "frequency": "301.53"
+  },
+  {
+    "word": "satiate",
+    "phonetics": [
+      {
+        "text": "/\\u02c8se\\u026a\\u0283\\u026ae\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/satiate-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To fill to satisfaction; to satisfy."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Filled to satisfaction or to excess."
+      }
+    ],
+    "frequency": "1280.84"
+  },
+  {
+    "word": "saturate",
+    "phonetics": [
+      {
+        "text": "/\\u02c8s\\u00e6t\\u0283\\u0259\\u02cc\\u0279e\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/saturate-uk.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Something saturated, especially a saturated fat."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To cause to become completely impregnated, or soaked (especially with a liquid)."
+      },
+      { "partOfSpeech": "adjective", "definition": "Saturated; wet." }
+    ],
+    "frequency": "1183.88"
+  },
+  {
+    "word": "savor",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The specific taste or smell of something."
+      }
+    ],
+    "frequency": "2295.57"
+  },
+  {
+    "word": "secrete",
+    "phonetics": [
+      {
+        "text": "/s\\u026a\\u02c8k\\u0279i\\u02d0t/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/secrete-us.mp3"
+      }
+    ],
+    "meanings": [{ "partOfSpeech": "adjective", "definition": "Separated" }],
+    "frequency": "741.6"
+  },
+  {
+    "word": "shard",
+    "phonetics": [
+      { "text": "/\\u0283a\\u02d0d/", "audio": "" },
+      { "text": "/\\u0283\\u0251\\u02d0d/", "audio": "" },
+      {
+        "text": "/\\u0283\\u0251\\u0279d/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shard-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A piece of broken glass or pottery, especially one found in an archaeological dig."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To fall apart into shards, usually as the result of impact or explosion."
+      }
+    ],
+    "frequency": "9555.82"
+  },
+  {
+    "word": "skeptic",
+    "phonetics": [
+      {
+        "text": "/\\u02c8sk\\u025bp.t\\u026ak/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/skeptic-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Someone who habitually doubts beliefs and claims presented as accepted by others, requiring strong evidence before accepting any belief or claim."
+      }
+    ],
+    "frequency": "713.48"
+  },
+  {
+    "word": "soporific",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/soporific-uk.mp3"
+      },
+      {
+        "text": "/\\u02ccso\\u028a.p\\u0259\\u02c8\\u0279\\u026af.\\u026ak/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Something inducing sleep, especially a drug."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "(pharmaceutical effect) Tending to induce sleep."
+      }
+    ],
+    "frequency": "14592.74"
+  },
+  {
+    "word": "specious",
+    "phonetics": [
+      {
+        "text": "/\\u02c8spi\\u02d0\\u0283\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/specious-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Seemingly well-reasoned, plausible or true, but actually fallacious."
+      }
+    ],
+    "frequency": "2838.09"
+  },
+  {
+    "word": "spectrum",
+    "phonetics": [
+      { "text": "/\\u02c8spekt\\u0279\\u0259m/", "audio": "" },
+      { "text": "/\\u02c8spekt\\u0279\\u0259m/", "audio": "" },
+      { "text": "/\\u02c8sp\\u025bkt(\\u0283)\\u0279\\u0259m/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A range; a continuous, infinite, one-dimensional set, possibly bounded by extremes."
+      }
+    ],
+    "frequency": "1331.7"
+  },
+  {
+    "word": "sporadic",
+    "phonetics": [
+      { "text": "/sp\\u0252\\u02c8\\u0279\\u00e6d\\u026ak/", "audio": "" },
+      {
+        "text": "/sp\\u0254\\u02c8\\u0279\\u00e6\\u027e\\u026ak/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sporadic-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "(of diseases) occurring in isolated instances; not epidemic."
+      }
+    ],
+    "frequency": "3373.13"
+  },
+  {
+    "word": "stigma",
+    "phonetics": [{ "text": "/\\u02c8st\\u026a\\u0261m\\u0259/", "audio": "" }],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "A mark of infamy or disgrace." }
+    ],
+    "frequency": "1360.48"
+  },
+  {
+    "word": "stint",
+    "phonetics": [
+      {
+        "text": "/st\\u026ant/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stint-uk.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A period of time spent doing or being something; a spell."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To stop (an action); cease, desist."
+      }
+    ],
+    "frequency": "1251.19"
+  },
+  {
+    "word": "stipulate",
+    "phonetics": [
+      {
+        "text": "/\\u02c8st\\u026apju\\u02ccle\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stipulate-1-au.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To require (something) as a condition of a contract or agreement."
+      }
+    ],
+    "frequency": "868.79"
+  },
+  {
+    "word": "stolid",
+    "phonetics": [
+      {
+        "text": "/\\u02c8st\\u0252l.\\u026ad/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stolid-uk.mp3"
+      },
+      { "text": "/\\u02c8st\\u0251\\u02d0l.\\u026ad/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Having or revealing little emotion or sensibility; dully or heavily stupid."
+      }
+    ],
+    "frequency": "1317.33"
+  },
+  {
+    "word": "strut",
+    "phonetics": [
+      {
+        "text": "/st\\u0279\\u028ct/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/strut-uk.mp3"
+      },
+      { "text": "/st\\u0279\\u028ct/", "audio": "" }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "Protuberance, air pressure" },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To swell; protuberate; bulge or spread out."
+      }
+    ],
+    "frequency": "1551.48"
+  },
+  {
+    "word": "strut",
+    "phonetics": [
+      {
+        "text": "/st\\u0279\\u028ct/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/strut-uk.mp3"
+      },
+      { "text": "/st\\u0279\\u028ct/", "audio": "" }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "Protuberance, air pressure" },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To swell; protuberate; bulge or spread out."
+      }
+    ],
+    "frequency": "1551.48"
+  },
+  {
+    "word": "subpoena",
+    "phonetics": [
+      {
+        "text": "/s\\u0259\\u02c8pi\\u02d0n\\u0259/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/subpoena-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A writ requiring a defendant to appear in court to answer a plaintiff's claim."
+      },
+      { "partOfSpeech": "verb", "definition": "To summon with a subpoena." }
+    ],
+    "frequency": "3473.18"
+  },
+  {
+    "word": "subside",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/subside-us.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To sink or fall to the bottom; to settle, as lees."
+      }
+    ],
+    "frequency": "551.97"
+  },
+  {
+    "word": "substantiate",
+    "phonetics": [
+      { "text": "/s\\u0259b\\u02c8stan\\u0283\\u026ae\\u026at/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To verify something by supplying evidence; to authenticate or corroborate"
+      }
+    ],
+    "frequency": "3347.35"
+  },
+  {
+    "word": "supersede",
+    "phonetics": [
+      {
+        "text": "/\\u02ccsu\\u02d0p\\u0259\\u02c8si\\u02d0d/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/supersede-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An updated newsgroup post that supersedes an earlier version."
+      },
+      { "partOfSpeech": "verb", "definition": "To take the place of." }
+    ],
+    "frequency": "1050.49"
+  },
+  {
+    "word": "supposition",
+    "phonetics": [
+      {
+        "text": "/\\u02ccs\\u028cp\\u0259\\u02c8z\\u026a\\u0283\\u0259n/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Something that is supposed; an assumption made to account for known facts, conjecture."
+      }
+    ],
+    "frequency": "690.25"
+  },
+  {
+    "word": "tacit",
+    "phonetics": [
+      {
+        "text": "/\\u02c8t\\u00e6s\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tacit-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Expressed in silence; implied, but not made explicit; silent."
+      }
+    ],
+    "frequency": "1418.35"
+  },
+  {
+    "word": "tangential",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tangential-au.mp3"
+      },
+      {
+        "text": "/t\\u00e6n\\u02c8d\\u0292\\u025bn.t\\u0283\\u0259l/",
+        "audio": ""
+      },
+      {
+        "text": "/t\\u00e6n\\u02c8d\\u0292\\u025bn.\\u0283\\u0259l/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tangential-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Referring to a tangent, moving at a tangent to something."
+      }
+    ],
+    "frequency": "12946.58"
+  },
+  {
+    "word": "tenuous",
+    "phonetics": [{ "text": "/\\u02c8t\\u025bn.ju.\\u0259s/", "audio": "" }],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Thin in substance or consistency."
+      }
+    ],
+    "frequency": "5708.05"
+  },
+  {
+    "word": "tirade",
+    "phonetics": [
+      {
+        "text": "/\\u02c8ta\\u026a\\u0279e\\u026ad/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tirade-uk.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A long, angry or violent speech; a diatribe."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To make a long, angry or violent speech, a tirade."
+      }
+    ],
+    "frequency": "4082.25"
+  },
+  {
+    "word": "torpor",
+    "phonetics": [
+      { "text": "/\\u02c8t\\u0254\\u02d0p\\u0259(\\u0279)/", "audio": "" },
+      {
+        "text": "/\\u02c8t\\u0254\\u0279p\\u025a/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/torpor-us.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A state of being inactive or stuporous."
+      }
+    ],
+    "frequency": "3656.83"
+  },
+  {
+    "word": "tortuous",
+    "phonetics": [
+      {
+        "text": "/\\u02c8t\\u0254\\u02d0t\\u0361\\u0283u\\u02d0\\u0259s/",
+        "audio": ""
+      },
+      {
+        "text": "/\\u02c8t\\u0254\\u0279t\\u0361\\u0283u\\u0259s/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Twisted; having many turns; convoluted."
+      }
+    ],
+    "frequency": "2745.85"
+  },
+  {
+    "word": "tractable",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tractable-au.mp3"
+      },
+      { "text": "/\\u02c8t\\u0279\\u00e6k.t\\u0259.b\\u0259l/", "audio": "" },
+      {
+        "text": "/\\u02c8t\\u0279\\u00e6k.t\\u0259.b\\u0259l/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tractable-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "(of people) Capable of being easily led, taught, or managed."
+      }
+    ],
+    "frequency": "2589.55"
+  },
+  {
+    "word": "transgression",
+    "phonetics": [
+      {
+        "text": "/t\\u0279\\u00e6ns\\u02c8\\u0261\\u0279\\u025b\\u0283\\u0259n/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A violation of a law, duty or commandment."
+      }
+    ],
+    "frequency": "1534.58"
+  },
+  {
+    "word": "vacillate",
+    "phonetics": [
+      {
+        "text": "/\\u02c8v\\u00e6.s\\u0259.le\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vacillate-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To sway unsteadily from one side to the other; oscillate."
+      }
+    ],
+    "frequency": "2770.29"
+  },
+  {
+    "word": "venerate",
+    "phonetics": [
+      {
+        "text": "/\\u02c8v\\u025bn\\u0259\\u0279e\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/venerate-au.mp3"
+      },
+      {
+        "text": "/\\u02c8v\\u025bn\\u0259\\u0279e\\u026at/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/venerate-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To treat with great respect and deference."
+      }
+    ],
+    "frequency": "313.53"
+  },
+  {
+    "word": "veracious",
+    "phonetics": [
+      {
+        "text": "/v\\u025b.\\u02c8\\u0279e\\u026a.\\u0283\\u0259s/",
+        "audio": ""
+      }
+    ],
+    "meanings": [{ "partOfSpeech": "adjective", "definition": "True." }],
+    "frequency": "9479.2"
+  },
+  {
+    "word": "verbose",
+    "phonetics": [
+      { "text": "/v\\u0259\\u02c8b\\u0259\\u028as/", "audio": "" },
+      {
+        "text": "/v\\u0259\\u02de\\u02c8bo\\u028as/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/verbose-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Abounding in words, containing more words than necessary; long-winded."
+      }
+    ],
+    "frequency": "11476.06"
+  },
+  {
+    "word": "viable",
+    "phonetics": [
+      {
+        "text": "/\\u02c8va\\u026a\\u0259b\\u0259l/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/viable-uk.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An organism that is able to live and develop."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Able to live on its own (as for a newborn)."
+      }
+    ],
+    "frequency": "3048.79"
+  },
+  {
+    "word": "viscous",
+    "phonetics": [
+      {
+        "text": "/\\u02c8v\\u026as.k\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/viscous-au.mp3"
+      },
+      {
+        "text": "/\\u02c8v\\u026as.k\\u0259s/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/viscous-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Having a thick, sticky consistency between solid and liquid."
+      }
+    ],
+    "frequency": "9665.2"
+  },
+  {
+    "word": "vituperative",
+    "phonetics": [
+      {
+        "text": "/va\\u026a\\u02c8tju\\u02d0p\\u0279\\u0259t\\u026av/",
+        "audio": ""
+      },
+      {
+        "text": "/va\\u026a\\u02c8tu\\u02d0p\\u025a\\u0259t\\u026av/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vituperative-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Marked by harsh, spoken, or written abuse; abusive, often with ranting or railing."
+      }
+    ],
+    "frequency": "21335.5"
+  },
+  {
+    "word": "volatile",
+    "phonetics": [
+      {
+        "text": "/\\u02c8v\\u0252l.\\u0259\\u02ccta\\u026a.(\\u0259)l/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/volatile-uk.mp3"
+      },
+      {
+        "text": "/\\u02c8v\\u0251l.\\u0259.tl\\u0329/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/volatile-us.mp3"
+        }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A chemical or compound that changes into a gas easily."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Evaporating or vaporizing readily under normal conditions."
+      }
+    ],
+    "frequency": "1043.73"
+  },
+  {
+    "word": "wary",
+    "phonetics": [
+      { "text": "/\\u02c8w\\u025b\\u0259\\u0279.i/", "audio": "" },
+      { "text": "/\\u02c8w\\u025b\\u0259\\u0279i/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Cautious of danger; carefully watching and guarding against deception, trickery, and dangers; suspiciously prudent"
+      }
+    ],
+    "frequency": "603.41"
+  },
+  {
+    "word": "welter",
+    "phonetics": [
+      { "text": "/\\u02c8w\\u025blt\\u0259/", "audio": "" },
+      { "text": "/\\u02c8w\\u025blt\\u025a/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A general confusion or muddle."
+      },
+      { "partOfSpeech": "verb", "definition": "To roll around; to wallow." }
+    ],
+    "frequency": "3648.94"
+  },
+  {
+    "word": "whimsical",
+    "phonetics": [
+      { "text": "/\\u02c8w\\u026amz\\u026ak\\u0259l/", "audio": "" },
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/whimsical-us.mp3"
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "adjective", "definition": "Given to whimsy." }
+    ],
+    "frequency": "1140.21"
+  },
+  {
+    "word": "zealot",
+    "phonetics": [{ "text": "/\\u02c8z\\u025bl.\\u0259t/", "audio": "" }],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "One who is zealous, one who is full of zeal for his own specific beliefs or objectives, usually in the negative sense of being too passionate; a fanatic"
+      }
+    ],
+    "frequency": "7928.1"
+  }
+]

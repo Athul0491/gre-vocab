@@ -5,40 +5,20 @@ import CardFront from "./cardFront";
 import CardBack from "./cardBack";
 import WordDetails from "./wordDetails";
 
-interface CardProps {
+interface  cardsProps {
   word: string;
-  meaning: string;
+  phonetics: (
+    | { audio: string; text?: undefined }
+    | { text: string; audio: string }
+  )[];
+  meanings: { partOfSpeech: string; definition: string }[];
+  frequency: string;
+}
+interface CardProps {
+  words: cardsProps[];
 }
 
-const Card = () => {
-  const words = [
-    {
-      word: "abate",
-      definition: "become less in amount or intensity",
-      pos: "adjective"
-    },
-    {
-      word: "aberrant",
-      definition: "markedly different from an accepted norm",
-    pos: "adjective"},
-    {
-      word: "abeyance",
-      definition: "temporary cessation or suspension",
-    pos: "adjective"},
-    {
-      word: "abscond",
-      definition: "run away, often taking something or somebody along",
-    pos: "adjective"},
-    {
-      word: "abstemious",
-      definition: "marked by temperance in indulgence",
-    pos: "adjective"},
-    {
-      word: "admonish",
-      definition: "scold or reprimand; take to task",
-    pos: "adjective"},
-  ];
-
+const Card: React.FC<CardProps> = ({ words }) => {
   const [showMeaning, setShowMeaning] = useState(false);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [animateCard, setAnimateCard] = useState(false);
@@ -91,18 +71,20 @@ const Card = () => {
   };
 
   return (
-    <div className="p-6 space-y-6 flex-1 overflow-y-auto overscroll-contain">
-        <div>
-
+    <div className="p-6 space-y-6 flex-1 overflow-y-auto overscroll-contain px-6">
+      <div>
         <WordStatus wordStatus={wordStatus} totalWords={words.length} />
-        <WordDetails word={words[currentIndex].word} index={currentIndex} wordStatus={wordStatus} />
-        </div>
+        <WordDetails
+          word={words[currentIndex].word}
+          index={currentIndex}
+          wordStatus={wordStatus}
+        />
+      </div>
       {!showMeaning ? (
         <CardFront
           onClick={handleClick}
-          currentIndex={currentIndex}
           animateCard={animateCard}
-          words={words}
+          word={words[currentIndex].word}
         />
       ) : (
         <CardBack

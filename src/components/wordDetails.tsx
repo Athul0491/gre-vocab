@@ -18,9 +18,9 @@ const WordDetails: React.FC<WordDetailsProps> = ({
       untouched: "bg-red-100 text-red-800",
     };
   return (
-    <div className="flex justify-between">
+    <div className="flex justify-center">
       <div className="flex justify-between capitalize">
-        {word + " (#" + index + 1 + ")  "}
+        {word + " (#0" + (index + 1) + ")  "}
         <span className={`ml-2 mr-2 font-medium inline-flex items-center justify-center px-2.5 py-0.5 text-xs rounded ${statusClasses[wordStatus[index]]}`}>
           {wordStatus[index]}
         </span>
@@ -28,15 +28,15 @@ const WordDetails: React.FC<WordDetailsProps> = ({
         <button className="inline cursor-pointer">
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            className="icon icon-tabler icon-tabler-volume inline-block"
+            className="icon icon-table icon-table-volume inline-block"
             width="24"
             height="24"
             viewBox="0 0 24 24"
-            stroke-width="2"
+            strokeWidth="2"
             stroke="currentColor"
             fill="none"
-            stroke-linecap="round"
-            stroke-linejoin="round"
+            strokeLinecap="round"
+            strokeLinejoin="round"
           >
             <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
             <path d="M15 8a5 5 0 0 1 0 8"></path>

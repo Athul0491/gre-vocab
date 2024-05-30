@@ -1,12 +1,8 @@
 import Card from "./components/card";
-
+import data from "./assets/barrons.json"
 const App = () => {
-  
-
   return (
-    <Card
-      
-    />
+    <Card words={data} />
   );
 };
 
