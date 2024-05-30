@@ -28,6 +28,10 @@ const WordDetails: React.FC<WordDetailsProps> = ({
       return String.fromCharCode(parseInt(match.replace(/\\u/g, ""), 16));
     });
   };
+  const playAudio = (audioUrl: string) => {
+    const audio = new Audio(audioUrl);
+    audio.play();
+  };
 
   return (
     <div className="flex justify-center items-center">
@@ -47,7 +51,10 @@ const WordDetails: React.FC<WordDetailsProps> = ({
           {decodeUnicode(phonetics[0].text!)}
           &nbsp;
         </span>
-        <button className="inline cursor-pointer mt-2 mb-2">
+        <button
+          className="inline cursor-pointer mt-2 mb-2"
+          onClick={() => playAudio(phonetics[0].audio)}
+        >
           <svg
             xmlns="http://www.w3.org/2000/svg"
             className="icon icon-tabler icon-tabler-volume"
