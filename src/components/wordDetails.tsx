@@ -2,33 +2,55 @@ import React from "react";
 
 interface WordDetailsProps {
   word: string;
+  phonetics: (
+    | { audio: string; text?: undefined }
+    | { text: string; audio: string }
+  )[];
   index: number;
   wordStatus: {
     [key: number]: "mastered" | "learning" | "untouched";
   };
 }
+
 const WordDetails: React.FC<WordDetailsProps> = ({
   word,
+  phonetics,
   index,
   wordStatus,
 }) => {
-    const statusClasses = {
-      mastered: "bg-green-100 text-green-800",
-      learning: "bg-yellow-100 text-yellow-800",
-      untouched: "bg-red-100 text-red-800",
-    };
+  const statusClasses = {
+    mastered: "bg-green-100 text-green-800",
+    learning: "bg-yellow-100 text-yellow-800",
+    untouched: "bg-red-100 text-red-800",
+  };
+  const decodeUnicode = (str: string) => {
+    return str.replace(/\\u[\dA-F]{4}/gi, (match) => {
+      return String.fromCharCode(parseInt(match.replace(/\\u/g, ""), 16));
+    });
+  };
+
   return (
-    <div className="flex justify-center">
-      <div className="flex justify-between capitalize">
-        {word + " (#0" + (index + 1) + ")  "}
-        <span className={`ml-2 mr-2 font-medium inline-flex items-center justify-center px-2.5 py-0.5 text-xs rounded ${statusClasses[wordStatus[index]]}`}>
+    <div className="flex justify-center items-center">
+      <div className="flex justify-between items-center capitalize">
+        <span className="text-xl font-semibold">
+          {word} {"(#0" + (index + 1) + ")"}
+        </span>
+        <span
+          className={`ml-2 font-medium inline-flex items-center justify-center px-2.5 py-0.5 text-xs rounded ${
+            statusClasses[wordStatus[index]]
+          }`}
+        >
           {wordStatus[index]}
         </span>
-        {"   "}
-        <button className="inline cursor-pointer">
+        <span className="text-sm text-gray-700 italic">
+          &nbsp; &nbsp;
+          {decodeUnicode(phonetics[0].text!)}
+          &nbsp;
+        </span>
+        <button className="inline cursor-pointer mt-2 mb-2">
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            className="icon icon-table icon-table-volume inline-block"
+            className="icon icon-tabler icon-tabler-volume"
             width="24"
             height="24"
             viewBox="0 0 24 24"
