@@ -23,11 +23,13 @@ const WordDetails: React.FC<WordDetailsProps> = ({
     learning: "bg-yellow-100 text-yellow-800",
     untouched: "bg-red-100 text-red-800",
   };
+
   const decodeUnicode = (str: string) => {
     return str.replace(/\\u[\dA-F]{4}/gi, (match) => {
       return String.fromCharCode(parseInt(match.replace(/\\u/g, ""), 16));
     });
   };
+
   const playAudio = (audioUrl: string) => {
     const audio = new Audio(audioUrl);
     audio.play();
@@ -42,13 +44,12 @@ const WordDetails: React.FC<WordDetailsProps> = ({
         <span
           className={`ml-2 font-medium inline-flex items-center justify-center px-2.5 py-0.5 text-xs rounded ${
             statusClasses[wordStatus[index]]
-          }`}
+          } mr-20`}
         >
           {wordStatus[index]}
         </span>
-        <span className="text-sm text-gray-700 italic">
-          &nbsp; &nbsp;
-          {decodeUnicode(phonetics[0].text!)}
+        <span className="text-sm text-gray-700 italic ml-8">
+          {decodeUnicode(phonetics[0]?.text|| "")}
           &nbsp;
         </span>
         <button

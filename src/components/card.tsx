@@ -53,7 +53,6 @@ const Card: React.FC<CardProps> = ({ words }) => {
       [currentIndex]: "mastered",
     }));
     nextWord();
-    setAnimateCard(true);
   };
 
   const handleLearningClick = () => {
@@ -62,12 +61,12 @@ const Card: React.FC<CardProps> = ({ words }) => {
       [currentIndex]: "learning",
     }));
     nextWord();
-    setAnimateCard(true);
   };
 
   const nextWord = () => {
     setShowMeaning(false);
     setCurrentIndex((prevIndex) => (prevIndex + 1) % words.length);
+    setAnimateCard(true);
   };
 
   return (
@@ -78,7 +77,7 @@ const Card: React.FC<CardProps> = ({ words }) => {
           word={words[currentIndex].word}
           index={currentIndex}
           wordStatus={wordStatus}
-          phonetics={words[currentIndex].phonetics}
+          phonetics={words[currentIndex].phonetics||[{audio:"",text:""}]}
         />
       </div>
       {!showMeaning ? (
@@ -99,6 +98,7 @@ const Card: React.FC<CardProps> = ({ words }) => {
       <CardButtons
         handleMasteredClick={handleMasteredClick}
         handleLearningClick={handleLearningClick}
+        nextWord={nextWord}
       />
     </div>
   );
