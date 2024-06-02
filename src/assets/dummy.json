@@ -1,0 +1,100 @@
+[
+  {
+    "word": "latent",
+    "phonetics": [
+      {
+        "text": "/\\u02c8le\\u026a.t\\u0259nt/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/latent-us.mp3"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "(forensics) The residue left by a person's finger that can be made visible by a process such as powder dusting; a latent fingerprint."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Existing or present but concealed or inactive."
+      }
+    ],
+    "frequency": "1177.87"
+  },
+  {
+    "word": "laud",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/laud-au.mp3"
+      },
+      { "text": "/l\\u0254\\u02d0d/", "audio": "" },
+      { "text": "/l\\u0254d/", "audio": "" }
+    ],
+    "meanings": [
+      { "partOfSpeech": "noun", "definition": "Praise or glorification." },
+      { "partOfSpeech": "verb", "definition": "To praise, to glorify" }
+    ],
+    "frequency": "881.79"
+  },
+  {
+    "word": "lethargic",
+    "phonetics": [
+      {
+        "text": "/l\\u0259\\u02c8\\u03b8\\u0251\\u0279d\\u0292\\u026ak/",
+        "audio": ""
+      },
+      {
+        "text": "/l\\u0259\\u02c8\\u03b8\\u0251\\u02d0d\\u0292\\u0259k/",
+        "audio": ""
+      },
+      {
+        "text": "/l\\u0259\\u02c8\\u03b8\\u0251\\u02d0.d\\u0292\\u026ak/",
+        "audio": ""
+      },
+      {
+        "text": "/l\\u0259\\u02c8\\u03b8\\u0251\\u0279d\\u0292\\u026ak/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      { "partOfSpeech": "adjective", "definition": "Sluggish, slow" }
+    ],
+    "frequency": "7265.48"
+  },
+  {
+    "word": "levee",
+    "phonetics": [
+      {
+        "text": "/\\u02c8l\\u025bv.e\\u026a/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/levee-uk.mp3"
+      },
+      { "text": "/l\\u0259\\u02c8ve\\u026a/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An embankment to prevent inundation; as, the levees along the Mississippi."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To keep within a channel by means of levees."
+      }
+    ],
+    "frequency": "2179.27"
+  },
+  {
+    "word": "levity",
+    "phonetics": [
+      {
+        "text": "/\\u02c8l\\u025b.v\\u026a.ti/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/levity-uk.mp3"
+      },
+      { "text": "/\\u02c8l\\u025b.v\\u026a.ti/", "audio": "" }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Lightness of manner or speech, frivolity; lack of appropriate seriousness; inclination to make a joke of serious matters."
+      }
+    ],
+    "frequency": "1864.07"
+  }
+]
