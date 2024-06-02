@@ -3,26 +3,42 @@ import React from "react";
 interface CardButtonsProps {
   handleMasteredClick: () => void;
   handleLearningClick: () => void;
+  nextWord: () => void;
+  prevWord: () => void;
 }
 
 const CardButtons: React.FC<CardButtonsProps> = ({
   handleMasteredClick,
   handleLearningClick,
+  nextWord,
+  prevWord,
 }) => {
   return (
-    <div className="my-2 flex justify-center">
-      <div className="inline-flex rounded-lg shadow-sm">
+    <div className=" flex justify-center">
+      <div className="inline-flex shadow-sm">
+        <button
+          onClick={prevWord}
+          className="mr-8 mt-6 mt-6 rounded-lg text-center font-medium focus:ring-2 focus:z-10 inline-flex items-center justify-center px-4 py-2 text-sm text-gray-800 bg-gray-200 hover:bg-gray-300 "
+        >
+          Previous
+        </button>
         <button
           onClick={handleMasteredClick}
-          className="text-center font-medium focus:ring-2 focus:z-10 size inline-flex items-center justify-center px-4 py-2 text-sm text-white bg-green-700 hover:bg-green-800 focus:ring-green-300 first:rounded-l-lg last:rounded-r-lg"
+          className="mr-3 text-center mt-6 rounded-lg font-medium focus:ring-2 focus:z-10 inline-flex items-center justify-center px-4 py-2 text-sm text-white bg-green-700 hover:bg-green-800 focus:ring-green-300 "
         >
           I know this word
         </button>
         <button
           onClick={handleLearningClick}
-          className="text-center font-medium focus:ring-2 focus:z-10 size inline-flex items-center justify-center px-4 py-2 text-sm text-white bg-red-700 hover:bg-red-800 focus:ring-red-300 first:rounded-l-lg last:rounded-r-lg"
+          className="ml-3 text-center mt-6 rounded-lg font-medium focus:ring-2 focus:z-10 inline-flex items-center justify-center px-4 py-2 text-sm text-white bg-red-700 hover:bg-red-800 focus:ring-red-300"
         >
           I don't know this word
+        </button>
+        <button
+          onClick={nextWord}
+          className="ml-8 mt-6 rounded-lg text-center font-medium focus:ring-2 focus:z-10 inline-flex items-center justify-center px-4 py-2 text-sm text-gray-800 bg-gray-200 hover:bg-gray-300"
+        >
+          Next
         </button>
       </div>
     </div>
