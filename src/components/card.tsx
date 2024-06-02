@@ -35,6 +35,23 @@ const Card: React.FC<CardProps> = ({ words }) => {
   });
 
   useEffect(() => {
+    const updateWordStatus = () => {
+      const newWordStatus: Record<
+        number,
+        "mastered" | "learning" | "untouched"
+      > = {};
+      words.forEach((_, index) => {
+        newWordStatus[index] = "untouched"; // Initial state for new words
+      });
+      setWordStatus(newWordStatus);
+    };
+
+    // Call updateWordStatus initially and whenever words changes
+    updateWordStatus();
+    return () => updateWordStatus(); // Cleanup function to prevent memory leaks
+  }, [words]);
+
+  useEffect(() => {
     if (animateCard) {
       const timer = setTimeout(() => {
         setAnimateCard(false);
@@ -68,6 +85,14 @@ const Card: React.FC<CardProps> = ({ words }) => {
     setCurrentIndex((prevIndex) => (prevIndex + 1) % words.length);
     setAnimateCard(true);
   };
+  const prevWord = () => {
+    setShowMeaning(false);
+    setCurrentIndex((prevIndex) =>{
+      if (prevIndex > 0) return (prevIndex - 1) % words.length;
+      return prevIndex;
+    });
+    setAnimateCard(true);
+  };
 
   return (
     <div className="p-6 space-y-6 flex-1 overflow-y-auto overscroll-contain px-6">
@@ -99,6 +124,7 @@ const Card: React.FC<CardProps> = ({ words }) => {
         handleMasteredClick={handleMasteredClick}
         handleLearningClick={handleLearningClick}
         nextWord={nextWord}
+        prevWord={prevWord}
       />
     </div>
   );
