@@ -8,27 +8,27 @@ interface SidebarProps {
 const Sidebar: React.FC<SidebarProps> = ({ selected, setSelected }) => {
     let options = ["dummy", "barrons 333"];
   return (
-    <div className="w-[324px] bg-green-200 p-6 h-screen overflow-y-auto shadow-lg flex flex-col justify-between">
-      <h1 className="text-2xl font-bold mt-12 ml-5">Flashcards</h1>
-      <div className="mt-8 flex flex-col">
-        <div className="mb-4">
-          Select your word list
+    <div className="w-[324px] bg-white p-6 h-screen overflow-y-auto shadow-md flex flex-col justify-between">
+      <h1 className="text-3xl font-bold mt-8 ml-5 mb-6 text-gray-800">
+        Flashcards
+      </h1>
+      <div className="flex flex-col">
+        <div className="mt-6 ml-2">
+          <p className="text-lg font-semibold text-gray-800">
+            Select your word list{" "}
+            <span className="text-green-500 text-xl font-medium">
+              ({options.length})
+            </span>
+          </p>
           <Dropdown
             options={options}
             selected={selected}
             setSelected={setSelected}
           />
         </div>
-        <div className="mb-4">
-          <p className="text-lg font-semibold">Recent Flashcards</p>
-          {/* Add recent flashcards here */}
-        </div>
-        <div>
-          <p className="text-lg font-semibold">Quick Links</p>
-          {/* Add quick links here */}
-        </div>
+        <div className="mb-6">{/* Add your content here */}</div>
       </div>
-      <div className="text-sm text-gray-600 mt-auto">© 2024 Made with love</div>
+      <div className="text-sm text-gray-800 mt-auto">© 2024 Made with ❤️</div>
     </div>
   );
 };
