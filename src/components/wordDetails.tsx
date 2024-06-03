@@ -1,4 +1,6 @@
 import React from "react";
+import { decodeUnicode } from "../utils/helper";
+import { playAudio } from "../utils/helper";
 
 interface WordDetailsProps {
   word: string;
@@ -22,17 +24,6 @@ const WordDetails: React.FC<WordDetailsProps> = ({
     mastered: "bg-green-100 text-green-800",
     learning: "bg-yellow-100 text-yellow-800",
     untouched: "bg-red-100 text-red-800",
-  };
-
-  const decodeUnicode = (str: string) => {
-    return str.replace(/\\u[\dA-F]{4}/gi, (match) => {
-      return String.fromCharCode(parseInt(match.replace(/\\u/g, ""), 16));
-    });
-  };
-
-  const playAudio = (audioUrl: string) => {
-    const audio = new Audio(audioUrl);
-    audio.play();
   };
 
   return (
