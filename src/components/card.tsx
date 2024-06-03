@@ -50,22 +50,6 @@ const Card: React.FC<CardProps> = ({ words, wordStatus, setWordStatus }) => {
   }, [words]);
 
   useEffect(() => {
-    const updateWordStatus = () => {
-      const newWordStatus: Record<
-        number,
-        "mastered" | "learning" | "untouched"
-      > = {};
-      words.forEach((_, index) => {
-        newWordStatus[index] = "untouched"; // Initial state for new words
-      });
-      setWordStatus(newWordStatus);
-    };
-
-    // Call updateWordStatus initially and whenever words changes
-    updateWordStatus();
-  }, [words, setWordStatus]);
-
-  useEffect(() => {
     if (animateCard) {
       const timer = setTimeout(() => {
         setAnimateCard(false);

@@ -8,3 +8,7 @@ export const playAudio = (audioUrl: string) => {
   const audio = new Audio(audioUrl);
   audio.play();
 };
+
+export const percentage = (numerator: number, denominator: number) => {
+  return Math.floor((numerator / denominator) * 100);
+};
