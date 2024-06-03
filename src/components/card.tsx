@@ -119,7 +119,9 @@ const Card: React.FC<CardProps> = ({ words, wordStatus, setWordStatus }) => {
           word={words[currentIndex]?.word || ""}
           index={currentIndex}
           wordStatus={wordStatus}
-          phonetics={words[currentIndex]?.phonetics || [{ audio: "", text: "" }]}
+          phonetics={
+            words[currentIndex]?.phonetics || [{ audio: "", text: "" }]
+          }
         />
       </div>
       {!showMeaning ? (

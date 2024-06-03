@@ -49,7 +49,7 @@ const WordDetails: React.FC<WordDetailsProps> = ({
           {wordStatus[index]}
         </span>
         <span className="text-sm text-gray-700 italic ml-8">
-          {decodeUnicode(phonetics[0]?.text|| "")}
+          {decodeUnicode(phonetics[0]?.text || "")}
           &nbsp;
         </span>
         <button

@@ -46,19 +46,5 @@ const Sidebar: React.FC<SidebarProps> = ({
     </div>
   );
 };
-{
-  /* <div>
-        <ul className="space-y-4">
-          <li className="text-lg hover:text-green-700 cursor-pointer">
-            Item 1
-          </li>
-          <li className="text-lg hover:text-green-700 cursor-pointer">
-            Item 2
-          </li>
-          <li className="text-lg hover:text-green-700 cursor-pointer">
-            Item 3
-          </li>
-        </ul>
-      </div> */
-}
+
 export default Sidebar;
