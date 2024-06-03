@@ -14,6 +14,7 @@ interface cardsProps {
   meanings: { partOfSpeech: string; definition: string }[];
   frequency: string;
 }
+
 interface CardProps {
   words: cardsProps[];
   wordStatus: {
@@ -30,6 +31,23 @@ const Card: React.FC<CardProps> = ({ words, wordStatus, setWordStatus }) => {
   const [showMeaning, setShowMeaning] = useState(false);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [animateCard, setAnimateCard] = useState(false);
+  useEffect(() => {
+    try {
+      console.log("currentIndex:", currentIndex);
+      console.log("words.length:", words.length);
+
+      if (currentIndex >= words.length) {
+        setCurrentIndex(words.length - 1);
+      }
+    } catch (error) {
+      console.error("Error in Card component:", error);
+    }
+  }, [currentIndex, words]);
+
+  useEffect(() => {
+    setCurrentIndex(0); // Reset the index to 0 whenever the words array changes
+    setShowMeaning(false); // Hide the meaning when words change
+  }, [words]);
 
   useEffect(() => {
     const updateWordStatus = () => {
@@ -45,8 +63,7 @@ const Card: React.FC<CardProps> = ({ words, wordStatus, setWordStatus }) => {
 
     // Call updateWordStatus initially and whenever words changes
     updateWordStatus();
-    return () => updateWordStatus(); // Cleanup function to prevent memory leaks
-  }, [words]);
+  }, [words, setWordStatus]);
 
   useEffect(() => {
     if (animateCard) {
@@ -79,14 +96,17 @@ const Card: React.FC<CardProps> = ({ words, wordStatus, setWordStatus }) => {
 
   const nextWord = () => {
     setShowMeaning(false);
-    setCurrentIndex((prevIndex) => (prevIndex + 1) % words.length);
+    setCurrentIndex((prevIndex) => {
+      return (prevIndex + 1) % words.length;
+    });
     setAnimateCard(true);
   };
+
   const prevWord = () => {
     setShowMeaning(false);
     setCurrentIndex((prevIndex) => {
-      if (prevIndex > 0) return (prevIndex - 1) % words.length;
-      return prevIndex;
+      if (prevIndex > 0) return prevIndex - 1;
+      return words.length > 0 ? words.length - 1 : 0;
     });
     setAnimateCard(true);
   };
@@ -96,17 +116,17 @@ const Card: React.FC<CardProps> = ({ words, wordStatus, setWordStatus }) => {
       <div>
         <WordStatus wordStatus={wordStatus} totalWords={words.length} />
         <WordDetails
-          word={words[currentIndex].word}
+          word={words[currentIndex]?.word || ""}
           index={currentIndex}
           wordStatus={wordStatus}
-          phonetics={words[currentIndex].phonetics || [{ audio: "", text: "" }]}
+          phonetics={words[currentIndex]?.phonetics || [{ audio: "", text: "" }]}
         />
       </div>
       {!showMeaning ? (
         <CardFront
           onClick={handleClick}
           animateCard={animateCard}
-          word={words[currentIndex].word}
+          word={words[currentIndex]?.word || ""}
         />
       ) : (
         <CardBack
@@ -116,7 +136,6 @@ const Card: React.FC<CardProps> = ({ words, wordStatus, setWordStatus }) => {
           words={words}
         />
       )}
-
       <CardButtons
         handleMasteredClick={handleMasteredClick}
         handleLearningClick={handleLearningClick}
