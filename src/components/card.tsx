@@ -5,7 +5,7 @@ import CardFront from "./cardFront";
 import CardBack from "./cardBack";
 import WordDetails from "./wordDetails";
 
-interface  cardsProps {
+interface cardsProps {
   word: string;
   phonetics: (
     | { audio: string; text?: undefined }
@@ -16,23 +16,20 @@ interface  cardsProps {
 }
 interface CardProps {
   words: cardsProps[];
+  wordStatus: {
+    [key: number]: "mastered" | "learning" | "untouched";
+  };
+  setWordStatus: React.Dispatch<
+    React.SetStateAction<{
+      [key: number]: "mastered" | "learning" | "untouched";
+    }>
+  >;
 }
 
-const Card: React.FC<CardProps> = ({ words }) => {
+const Card: React.FC<CardProps> = ({ words, wordStatus, setWordStatus }) => {
   const [showMeaning, setShowMeaning] = useState(false);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [animateCard, setAnimateCard] = useState(false);
-  const [wordStatus, setWordStatus] = useState<{
-    [key: number]: "mastered" | "learning" | "untouched";
-  }>(() => {
-    const initialStatus: {
-      [key: number]: "mastered" | "learning" | "untouched";
-    } = {};
-    words.forEach((_, index) => {
-      initialStatus[index] = "untouched";
-    });
-    return initialStatus;
-  });
 
   useEffect(() => {
     const updateWordStatus = () => {
@@ -87,7 +84,7 @@ const Card: React.FC<CardProps> = ({ words }) => {
   };
   const prevWord = () => {
     setShowMeaning(false);
-    setCurrentIndex((prevIndex) =>{
+    setCurrentIndex((prevIndex) => {
       if (prevIndex > 0) return (prevIndex - 1) % words.length;
       return prevIndex;
     });
@@ -102,7 +99,7 @@ const Card: React.FC<CardProps> = ({ words }) => {
           word={words[currentIndex].word}
           index={currentIndex}
           wordStatus={wordStatus}
-          phonetics={words[currentIndex].phonetics||[{audio:"",text:""}]}
+          phonetics={words[currentIndex].phonetics || [{ audio: "", text: "" }]}
         />
       </div>
       {!showMeaning ? (
