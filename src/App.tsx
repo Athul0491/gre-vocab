@@ -1,16 +1,18 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "./index.css";
 import Flashcard from "./flashcard";
+import { SignInButton, SignedIn, SignedOut } from "@clerk/clerk-react";
 
 const App = () => {
   return (
-    <Router>
-      <Routes>
-        <Route path="/flashcard" element={<Flashcard />} />
-      </Routes>
-    </Router>
+    <div>
+      <SignedOut>
+        <SignInButton />
+      </SignedOut>
+      <SignedIn>
+        <Flashcard />
+      </SignedIn>
+    </div>
   );
 };
 
 export default App;
-
