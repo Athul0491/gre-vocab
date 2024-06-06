@@ -1,16 +1,12 @@
 import UserDropdown from "./UserDropdown";
+import Logo from "./ui/logo";
 
 const Navbar = () => {
   return (
     <header className="header sticky top-0 bg-white shadow-md flex items-center justify-between px-8 py-1.5 z-50">
       <h1 className="w-3/12">
         <a href="/">
-          <span
-            className="text-primary text-lg font-extrabold hover:text-green-700 duration-200"
-            style={{ fontFamily: "Crush GRE Font, sans-serif" }}
-          >
-            Crush GRE
-          </span>
+          <Logo />
         </a>
       </h1>
       <nav className="nav font-semibold text-lg">
