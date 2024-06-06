@@ -3,6 +3,7 @@ import Card from "./components/card";
 import Sidebar from "./components/sideBar";
 import barron from "./assets/barrons.json";
 import dummy from "./assets/dummy.json";
+import Navbar from "./components/navbar";
 
 const Flashcard = () => {
   const [selected, setSelected] = useState("dummy");
@@ -38,19 +39,22 @@ const Flashcard = () => {
   }, [selected]);
 
   return (
-    <div className="flex gap-x-4">
-      <Sidebar
-        selected={selected}
-        setSelected={setSelected}
-        wordStatus={wordStatus}
-        totalWords={words.length}
-      />
-      <div className="mr-4 flex-1 h-screen p-4 pl-0">
-        <Card
-          words={words}
+    <div>
+      <Navbar />
+      <div className="flex gap-x-4">
+        <Sidebar
+          selected={selected}
+          setSelected={setSelected}
           wordStatus={wordStatus}
-          setWordStatus={setWordStatus}
+          totalWords={words.length}
         />
+        <div className="mr-4 flex-1 h-screen p-4 pl-0">
+          <Card
+            words={words}
+            wordStatus={wordStatus}
+            setWordStatus={setWordStatus}
+          />
+        </div>
       </div>
     </div>
   );
