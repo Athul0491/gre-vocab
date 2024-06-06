@@ -96,7 +96,7 @@ const Card: React.FC<CardProps> = ({ words, wordStatus, setWordStatus }) => {
   };
 
   return (
-    <div className="p-6 space-y-6 flex-1 overflow-y-auto overscroll-contain px-6">
+    <div className="p-6 space-y-6">
       <div>
         <WordStatus wordStatus={wordStatus} totalWords={words.length} />
         <WordDetails

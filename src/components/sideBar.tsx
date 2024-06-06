@@ -10,6 +10,7 @@ interface SidebarProps {
   };
   totalWords: number;
 }
+
 const Sidebar: React.FC<SidebarProps> = ({
   selected,
   setSelected,
@@ -22,12 +23,12 @@ const Sidebar: React.FC<SidebarProps> = ({
   ).length;
 
   return (
-    <div className="w-[324px] bg-gradient-to-b from-white to-gray-100 p-6 h-screen overflow-y-auto shadow-md flex flex-col justify-between">
-      <h1 className="text-3xl font-bold mt-8 ml-5 mb-6 text-gray-800">
+    <div className="w-[20rem] bg-gradient-to-b from-white to-gray-100 p-4 h-screen overflow-y-auto shadow-md flex flex-col ">
+      <h1 className="text-2xl font-bold mt-4 ml-3 mb-4 text-gray-800">
         Flashcards
       </h1>
       <div className="flex flex-col">
-        <div className="mt-6 ml-2 mb-4">
+        <div className="mt-4 ml-2 mb-4">
           <p className="text-lg font-semibold text-gray-800">
             Select your word list{" "}
             <span className="text-green-500 text-xl font-medium">
@@ -42,7 +43,7 @@ const Sidebar: React.FC<SidebarProps> = ({
         </div>
         <ProgressBar masteredWords={masteredWords} totalWords={totalWords} />
       </div>
-      <div className="text-sm text-gray-800 mt-auto">© 2024 Made with ❤️</div>
+      <div className="text-sm text-gray-800 ">© 2024 Made with ❤️</div>
     </div>
   );
 };
