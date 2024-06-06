@@ -15,7 +15,7 @@ const CardButtons: React.FC<CardButtonsProps> = ({
 }) => {
   return (
     <div className="flex justify-center">
-      <div className="shadow-sm">
+      <div className="inline-flex shadow-sm">
         <button
           onClick={prevWord}
           className="mr-8 rounded-lg text-center font-medium focus:ring-2 focus:z-10 px-4 py-2 text-sm text-gray-800 bg-gray-200 hover:bg-gray-300"
