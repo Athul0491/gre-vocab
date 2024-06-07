@@ -15,9 +15,9 @@ const Logo = () => {
       <text
         x="10"
         y="40"
-        font-family="'Montserrat', sans-serif"
-        font-size="30"
-        font-weight="700"
+        fontFamily="'Montserrat', sans-serif"
+        fontSize="30"
+        fontWeight="700"
         fill="#2C3E50"
       >
         Crush GRE
