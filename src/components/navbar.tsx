@@ -1,37 +1,51 @@
+import { useUser } from "@clerk/clerk-react";
 import UserDropdown from "./flashcard/UserDropdown";
 import Logo from "./ui/logo";
-import { useUser } from "@clerk/clerk-react";
 
 const Navbar = () => {
   const { isSignedIn, user, isLoaded } = useUser();
+
   if (!isLoaded) {
-    // Handle loading state however you like
-    // TODO add loading animation or sm idk
-    return null;
+    // Loading state can be a spinner or a simple placeholder
+    return null; // or a loading component
   }
+
   return (
-    <header className="header sticky top-0 bg-white shadow-md flex items-center justify-between px-8 py-1.5 z-50">
+    <header className="header sticky top-0 bg-white shadow-sm flex items-center justify-between px-8 py-2 z-50">
+      {/* Logo Section */}
       <h1 className="w-3/12">
         <a href="/">
           <Logo />
         </a>
       </h1>
-      <nav className="nav font-semibold text-lg">
-        <ul className="flex items-center">
-          <li className="p-3 border-b-2 border-green-500 border-opacity-0 hover:border-opacity-100 hover:text-green-500 duration-200 cursor-pointer">
-            <a href="/flashcard">Flashcard</a>
+
+      {/* Navigation Menu */}
+      <nav className="nav font-medium text-lg">
+        <ul className="flex items-center space-x-6">
+          <li className="border-b-2 border-blue-500 border-opacity-0 hover:border-opacity-100 hover:text-blue-600 transition-colors duration-300">
+            <a href="/flashcard" className="py-2">
+              Flashcards
+            </a>
           </li>
-          <li className="p-3 border-b-2 border-green-500 border-opacity-0 hover:border-opacity-100 hover:text-green-500 duration-200 cursor-pointer">
-            <a href="/definition-match">Definition match</a>
+          <li className="border-b-2 border-blue-500 border-opacity-0 hover:border-opacity-100 hover:text-blue-600 transition-colors duration-300">
+            <a href="/definition-match" className="py-2">
+              Definition Match
+            </a>
           </li>
-          <li className="p-3 border-b-2 border-green-500 border-opacity-0 hover:border-opacity-100 hover:text-green-500 duration-200 cursor-pointer">
-            <a href="/synonyms-practice">Synonyms Practice</a>
+          <li className="border-b-2 border-blue-500 border-opacity-0 hover:border-opacity-100 hover:text-blue-600 transition-colors duration-300">
+            <a href="/synonyms-practice" className="py-2">
+              Synonyms Practice
+            </a>
           </li>
-          <li className="p-3 border-b-2 border-green-500 border-opacity-0 hover:border-opacity-100 hover:text-green-500 duration-200 cursor-pointer">
-            <a href="/sentence-equivalence">Sentence Equivalence</a>
+          <li className="border-b-2 border-blue-500 border-opacity-0 hover:border-opacity-100 hover:text-blue-600 transition-colors duration-300">
+            <a href="/sentence-equivalence" className="py-2">
+              Sentence Equivalence
+            </a>
           </li>
         </ul>
       </nav>
+
+      {/* User Section */}
       <div className="w-3/12 flex justify-end items-center space-x-4">
         {isSignedIn ? (
           <>
@@ -40,7 +54,14 @@ const Navbar = () => {
             </span>
             <UserDropdown />
           </>
-        ) : null}
+        ) : (
+          <a
+            href="/sign-in"
+            className="py-2 px-4 bg-blue-500 text-white rounded-md hover:bg-blue-600 transition duration-300"
+          >
+            Login to save your progress
+          </a>
+        )}
       </div>
     </header>
   );
