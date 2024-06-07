@@ -19,16 +19,16 @@ const Navbar = () => {
       <nav className="nav font-semibold text-lg">
         <ul className="flex items-center">
           <li className="p-3 border-b-2 border-green-500 border-opacity-0 hover:border-opacity-100 hover:text-green-500 duration-200 cursor-pointer">
-            <a href="">Flashcard</a>
+            <a href="/flashcard">Flashcard</a>
           </li>
           <li className="p-3 border-b-2 border-green-500 border-opacity-0 hover:border-opacity-100 hover:text-green-500 duration-200 cursor-pointer">
-            <a href="">Definition match</a>
+            <a href="/definition-match">Definition match</a>
           </li>
           <li className="p-3 border-b-2 border-green-500 border-opacity-0 hover:border-opacity-100 hover:text-green-500 duration-200 cursor-pointer">
-            <a href="">Synonyms Practice</a>
+            <a href="/synonyms-practice">Synonyms Practice</a>
           </li>
           <li className="p-3 border-b-2 border-green-500 border-opacity-0 hover:border-opacity-100 hover:text-green-500 duration-200 cursor-pointer">
-            <a href="">Sentence Equivalence</a>
+            <a href="/sentence-equivalence">Sentence Equivalence</a>
           </li>
         </ul>
       </nav>
