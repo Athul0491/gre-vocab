@@ -1,7 +1,14 @@
 import UserDropdown from "./flashcard/UserDropdown";
 import Logo from "./ui/logo";
+import { useUser } from "@clerk/clerk-react";
 
 const Navbar = () => {
+  const { isSignedIn, user, isLoaded } = useUser();
+  if (!isLoaded) {
+    // Handle loading state however you like
+    // TODO add loading animation or sm idk
+    return null;
+  }
   return (
     <header className="header sticky top-0 bg-white shadow-md flex items-center justify-between px-8 py-1.5 z-50">
       <h1 className="w-3/12">
@@ -26,10 +33,14 @@ const Navbar = () => {
         </ul>
       </nav>
       <div className="w-3/12 flex justify-end items-center space-x-4">
-        {/* Welcome Message */}
-        <span className="text-gray-700 font-medium">Welcome back, Athul</span>
-        {/* User Dropdown */}
-        <UserDropdown />
+        {isSignedIn ? (
+          <>
+            <span className="text-gray-700 font-medium">
+              Welcome back, {user.firstName}
+            </span>
+            <UserDropdown />
+          </>
+        ) : null}
       </div>
     </header>
   );
