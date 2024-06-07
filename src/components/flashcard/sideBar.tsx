@@ -1,6 +1,6 @@
 import React from "react";
-import Dropdown from "./ui/dropdown";
-import ProgressBar from "./ui/progressBar";
+import Dropdown from "../ui/dropdown";
+import ProgressBar from "../ui/progressBar";
 
 interface SidebarProps {
   selected: string;

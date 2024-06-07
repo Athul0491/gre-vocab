@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import Card from "./components/card";
-import Sidebar from "./components/sideBar";
+import Card from "./components/flashcard/card";
+import Sidebar from "./components/flashcard/sideBar";
 import barron from "./assets/barrons.json";
 import dummy from "./assets/dummy.json";
 import Navbar from "./components/navbar";

@@ -1,6 +1,6 @@
 import React from "react";
-import { decodeUnicode } from "../utils/helper";
-import { playAudio } from "../utils/helper";
+import { decodeUnicode } from "../../utils/helper";
+import { playAudio } from "../../utils/helper";
 
 interface WordDetailsProps {
   word: string;
