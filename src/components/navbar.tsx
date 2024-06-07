@@ -60,7 +60,7 @@ const Navbar = () => {
         ) : (
           <a
             href="/sign-in"
-            className="py-2 px-4 bg-blue-500 text-white rounded-md hover:bg-blue-600 transition duration-300"
+            className="py-2 px-4 bg-gray-100 text-gray-800 font-medium rounded-md hover:bg-gray-200 hover:text-blue-600 transition duration-300"
           >
             Sign In
           </a>

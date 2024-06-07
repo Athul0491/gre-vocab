@@ -23,11 +23,11 @@ const Sidebar: React.FC<SidebarProps> = ({
   ).length;
 
   return (
-    <div className="w-[20rem] bg-gradient-to-b from-white to-gray-100 p-4 h-screen overflow-y-auto shadow-md flex flex-col ">
+    <div className="w-[20rem] bg-white p-4 h-screen overflow-y-auto shadow-md flex flex-col space-y-4">
       <h1 className="text-2xl font-bold mt-4 ml-3 mb-4 text-gray-800">
         Flashcards
       </h1>
-      <div className="flex flex-col">
+      <div className="flex flex-col space-y-4">
         <div className="mt-4 ml-2 mb-4">
           <p className="text-lg font-semibold text-gray-800">
             Select your word list{" "}
