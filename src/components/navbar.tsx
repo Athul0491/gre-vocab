@@ -21,7 +21,7 @@ const Navbar = () => {
 
       {/* Navigation Menu */}
       <nav className="nav font-medium text-lg">
-        <ul className="flex items-center space-x-6">
+        <ul className="flex items-center space-x-8">
           <li className="border-b-2 border-blue-500 border-opacity-0 hover:border-opacity-100 hover:text-blue-600 transition-colors duration-300">
             <a href="/flashcard" className="py-2">
               Flashcards
@@ -49,8 +49,11 @@ const Navbar = () => {
       <div className="w-3/12 flex justify-end items-center space-x-4">
         {isSignedIn ? (
           <>
-            <span className="text-gray-700 font-medium">
-              Welcome back, {user.firstName}
+            <span className="text-gray-800 font-medium">
+              Welcome back,
+              <span className="text-amber-600 font-bold hover:text-amber-800 transition duration-300 ml-1">
+                {user.firstName}
+              </span>
             </span>
             <UserDropdown />
           </>
@@ -59,7 +62,7 @@ const Navbar = () => {
             href="/sign-in"
             className="py-2 px-4 bg-blue-500 text-white rounded-md hover:bg-blue-600 transition duration-300"
           >
-            Login to save your progress
+            Sign In
           </a>
         )}
       </div>
