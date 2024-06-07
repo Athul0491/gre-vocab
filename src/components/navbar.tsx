@@ -1,4 +1,4 @@
-import UserDropdown from "./UserDropdown";
+import UserDropdown from "./flashcard/UserDropdown";
 import Logo from "./ui/logo";
 
 const Navbar = () => {
