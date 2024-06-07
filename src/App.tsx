@@ -33,74 +33,14 @@ const App = () => {
         <Route
           path="/sign-up/*"
           element={
-            <SignUp forceRedirectUrl="/" routing="path" path="/sign-up" />
+            <SignUp forceRedirectUrl="/" routing="path" path="/sign-in" />
           }
         />
-        <Route
-          path="/"
-          element={
-            <>
-              <SignedIn>
-                <Home />
-              </SignedIn>
-              <SignedOut>
-                <RedirectToSignIn />
-              </SignedOut>
-            </>
-          }
-        />
-        <Route
-          path="/flashcard"
-          element={
-            <>
-              <SignedIn>
-                <Flashcard />
-              </SignedIn>
-              <SignedOut>
-                <RedirectToSignIn />
-              </SignedOut>
-            </>
-          }
-        />
-        <Route
-          path="/definition-match"
-          element={
-            <>
-              <SignedIn>
-                <DefinitionMatch />
-              </SignedIn>
-              <SignedOut>
-                <RedirectToSignIn />
-              </SignedOut>
-            </>
-          }
-        />
-        <Route
-          path="/synonyms-practice"
-          element={
-            <>
-              <SignedIn>
-                <SynonymsPractice />
-              </SignedIn>
-              <SignedOut>
-                <RedirectToSignIn />
-              </SignedOut>
-            </>
-          }
-        />
-        <Route
-          path="/sentence-equivalence"
-          element={
-            <>
-              <SignedIn>
-                <SentenceEquivalence />
-              </SignedIn>
-              <SignedOut>
-                <RedirectToSignIn />
-              </SignedOut>
-            </>
-          }
-        />
+        <Route path="/" element={<Home />} />
+        <Route path="/flashcard" element={<Flashcard />} />
+        <Route path="/definition-match" element={<DefinitionMatch />} />
+        <Route path="/synonyms-practice" element={<SynonymsPractice />} />
+        <Route path="/sentence-equivalence" element={<SentenceEquivalence />} />
       </Routes>
     </ClerkProvider>
   );
